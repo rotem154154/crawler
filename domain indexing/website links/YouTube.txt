@@ -1,0 +1,18 @@
+Upload -
+http://www.youtube.com///www.youtube.com/upload
+
+Trending -
+http://www.youtube.com//feed/trending
+
+Videos -
+http://www.youtube.com//channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ/videos
+
+Playlists -
+http://www.youtube.com//channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ/playlists
+
+Trending -
+https://www.youtube.com//feed/trending?disable_polymer=1
+
+Home -
+https://www.youtube.com//?disable_polymer=1
+

@@ -1,0 +1,99 @@
+Kickstarter -
+https://www.kickstarter.com//?ref=nav
+
+Skip to content -
+https://www.kickstarter.com/#start-of-content
+
+Discover -
+https://www.kickstarter.com//discover?ref=nav
+
+Start -
+https://www.kickstarter.com//learn?ref=nav
+
+About us -
+https://www.kickstarter.com//about?ref=nav
+
+Sign up -
+https://www.kickstarter.com//signup?ref=nav
+
+Log in -
+https://www.kickstarter.com//login?ref=nav
+
+
+Forgot your password?
+ -
+https://www.kickstarter.com/https://www.kickstarter.com/password/forgot
+
+Go back -
+https://www.kickstarter.com/javascript: history.go(-1)
+
+Sign up! -
+https://www.kickstarter.com//signup
+
+terms of use -
+https://www.kickstarter.com//terms-of-use
+
+Community Guidelines -
+https://www.kickstarter.com//help/community
+
+What is Kickstarter? -
+https://www.kickstarter.com//about?ref=footer
+
+Hello
+ -
+https://www.kickstarter.com//about?ref=about_subnav
+
+Charter
+ -
+https://www.kickstarter.com//charter?ref=about_subnav
+
+Team
+ -
+https://www.kickstarter.com//team?ref=about_subnav
+
+Jobs
+ -
+https://www.kickstarter.com//jobs?ref=about_subnav
+
+Press
+ -
+https://www.kickstarter.com//press?ref=about_subnav
+
+Stats
+ -
+https://www.kickstarter.com//help/stats?ref=about_subnav
+
+Happening
+ -
+https://www.kickstarter.com//happening?ref=about_subnav
+
+The First 100,000 Funded Kickstarter Projects in 100 Numbers -
+https://www.kickstarter.com/https://medium.com/kickstarter/the-first-100-000-funded-kickstarter-projects-in-100-numbers-ca0f3dc2d538?ref=happening_list#.9wg8dsazn
+
+A Brief History of Oculus, from Day Zero to Day One -
+https://www.kickstarter.com/https://medium.com/kickstarter/a-brief-history-of-oculus-from-day-zero-to-day-one-8878aae002f8?ref=happening_list#.sww3hshyq
+
+It's time for some real talk on making art and being creative. -
+https://www.kickstarter.com/https://medium.com/kickstarter/real-talk-on-making-art-and-being-creative-1d0d9ac38c5a?ref=happening_list#.g4116qcvk
+
+Kickstarter is now available on Android! -
+https://www.kickstarter.com/https://www.kickstarter.com/mobile?ref=happening_list
+
+Who we are -
+https://www.kickstarter.com//team?ref=footer
+
+Google+ -
+https://www.kickstarter.com/https://plus.google.com/118239121095465976293
+
+Read more -
+https://www.kickstarter.com/https://www.kickstarter.com/happening?ref=hero
+
+View project -
+https://www.kickstarter.com//projects/513552603/open-the-tank?ref=hero
+
+Get the app -
+https://www.kickstarter.com/https://www.kickstarter.com/mobile?ref=hero
+
+Projects We Love: -
+https://www.kickstarter.com//discover/recommended?ref=home_staff_picks
+

@@ -1,0 +1,3970 @@
+Platforms -
+https://developer.apple.com//platforms/
+
+Resources -
+https://developer.apple.com//resources/
+
+Program -
+https://developer.apple.com//programs/
+
+Support -
+https://developer.apple.com//support/
+
+Member Center -
+https://developer.apple.com//membercenter/
+
+Apple Developer -
+https://developer.apple.com/https://developer.apple.com/
+
+Forgot ID or Password? -
+https://developer.apple.com/https://iforgot.apple.com/
+
+System Status -
+https://developer.apple.com/https://developer.apple.com/support/system-status/
+
+Search Apple Developer -
+https://developer.apple.com//search/
+
+iOS -
+https://developer.apple.com//ios/
+
+3D Touch -
+https://developer.apple.com//ios/3d-touch/
+
+iPad -
+https://developer.apple.com//ipad/
+
+Search -
+https://developer.apple.com//ios/search/
+
+More videos -
+https://developer.apple.com//videos/
+
+Documentation -
+https://developer.apple.com//library/ios/
+
+Download -
+https://developer.apple.com//ios/download/
+
+Documentation -
+https://developer.apple.com/https://developer.apple.com/library/ios/
+
+Watch Now -
+https://developer.apple.com//videos/techtalks-apple-tv/
+
+Sign in -
+https://developer.apple.com/https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&baseURL=https://developer.apple.com/&path=%2F%2Fios%2Fdownload%2F&rv=1
+
+Learn more -
+https://developer.apple.com//support/pre-release-software/
+
+Development -
+https://developer.apple.com//support/development/
+
+Distribution -
+https://developer.apple.com//support/distribution/
+
+News & Updates -
+https://developer.apple.com//news/
+
+Membership -
+https://developer.apple.com//support/membership/
+
+Test Your Apps on the Latest Beta of iOS, watchOS, and tvOS with TestFlight. -
+https://developer.apple.com//news/?id=02252016a
+
+Report Bugs -
+https://developer.apple.com//bug-reporting/
+
+Member Center -
+https://developer.apple.com/https://developer.apple.com/membercenter/
+
+Using Apple Bug Reporter -
+https://developer.apple.com//bug-reporting/using-bug-reporter/
+
+OS X -
+https://developer.apple.com//osx/
+
+Documentation -
+https://developer.apple.com/https://developer.apple.com/library/mac/
+
+Problem Description -
+https://developer.apple.com//bug-reporting/using-bug-reporter/problem-description/
+
+Distribution -
+https://developer.apple.com//osx/distribution/
+
+Download -
+https://developer.apple.com//osx/download/
+
+Problem Details -
+https://developer.apple.com//bug-reporting/using-bug-reporter/problem-detail/
+
+Sign in -
+https://developer.apple.com/https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&baseURL=https://developer.apple.com/&path=%2F%2Fosx%2Fdownload%2F&rv=1
+
+Learn more -
+https://developer.apple.com/ /support/pre-release-software/
+
+Configuration Information -
+https://developer.apple.com//bug-reporting/using-bug-reporter/configuration/
+
+Download OS X El Capitan -
+https://developer.apple.com/https://itunes.apple.com/us/app/os-x-el-capitan/id1018109117?mt=12
+
+Additional Information -
+https://developer.apple.com//bug-reporting/using-bug-reporter/additional-information/
+
+watchOS -
+https://developer.apple.com//watchos/
+
+iPhone, iPad, and iPod -
+https://developer.apple.com//bug-reporting/ios/
+
+WatchKit -
+https://developer.apple.com//watchkit/
+
+Documentation -
+https://developer.apple.com//library/watchos/navigation/
+
+3rd Party Apps -
+https://developer.apple.com//bug-reporting/ios/applications/
+
+watchOS Developer Library                     -
+https://developer.apple.com/../navigation/
+
+Retired Documents Library -
+https://developer.apple.com//legacy/library/
+
+Apple Push Notification Service -
+https://developer.apple.com//bug-reporting/ios/push-notification/
+
+App Store Submissions -
+https://developer.apple.com//watchos/submit/
+
+Baseband Logs (iPad) -
+https://developer.apple.com//bug-reporting/ios/baseband-ipad/
+
+Download -
+https://developer.apple.com//watchos/download/
+
+Download watchOS 2.2 beta Configuration Profile -
+https://developer.apple.com//services-account/download?path=/iOS/watchOS_2.2_beta_Configuration_Profile/watchOS_beta_Configuration_Profile.mobileconfig
+
+Baseband Logs (iPhone) -
+https://developer.apple.com//bug-reporting/ios/baseband-iphone/
+
+watchOS 2.2 beta 4 Release Notes -
+https://developer.apple.com//go/?id=watchos-2.2-sdk-rn
+
+Battery Life Logs -
+https://developer.apple.com//bug-reporting/ios/battery-life/
+
+watchOS beta Software Installation Guide -
+https://developer.apple.com//services-account/download?path=/Documentation/Beta_Software_Installation_Guides/watchOS_beta_Software_Installation_Guide.pdf
+
+Bluetooth Logs -
+https://developer.apple.com//bug-reporting/ios/bluetooth/
+
+How to update the software on your Apple Watch -
+https://developer.apple.com/https://support.apple.com/en-us/HT204641
+
+watchOS 2.1 Release Notes -
+https://developer.apple.com//go/?id=watchos-2.1-sdk-rn
+
+Calendar Data Export -
+https://developer.apple.com//bug-reporting/ios/calendar-data/
+
+View San Francisco font downloads -
+https://developer.apple.com//fonts/
+
+Contacts Data Export -
+https://developer.apple.com//bug-reporting/ios/contacts-data/
+
+WWDC 2015 -
+https://developer.apple.com//videos/wwdc2015/
+
+Device Console Logs -
+https://developer.apple.com//bug-reporting/ios/device/
+
+iCloud Logs -
+https://developer.apple.com//bug-reporting/ios/icloud/
+
+Contact Us -
+https://developer.apple.com//contact/
+
+iOS Crash Logs -
+https://developer.apple.com//bug-reporting/ios/crash/
+
+Apple Developer Program Support -
+https://developer.apple.com//contact/submit.php
+
+iPod -
+https://developer.apple.com//bug-reporting/ios/ipod/
+
+Manage your Apple ID -
+https://developer.apple.com/https://appleid.apple.com/
+
+Reset your password -
+https://developer.apple.com/https://iforgot.apple.com/cgi-bin/iforgot.cgi?language=US-EN&returnURL=https://appleid.apple.com/cgi-bin/WebObjects/MyAppleId.woa&app_id=93&app_type=ext
+
+Find your Apple ID -
+https://developer.apple.com/https://iforgot.apple.com/cgi-bin/findYourAppleID.cgi?language=US-EN&returnURL=https://appleid.apple.com/cgi-bin/WebObjects/MyAppleId.woa&app_id=93&app_type=ext
+
+Mail Logs -
+https://developer.apple.com//bug-reporting/ios/mail/
+
+Request assistance with sign in issues -
+https://developer.apple.com//contact/appleid.php
+
+call us -
+https://developer.apple.com//contact/phone.php
+
+Stackshot Logs -
+https://developer.apple.com//bug-reporting/ios/stackshot/
+
+tvOS -
+https://developer.apple.com//tvos/
+
+Documentation -
+https://developer.apple.com//tvos/documentation/
+
+App Store Submissions -
+https://developer.apple.com//tvos/submit/
+
+Sync Diagnostics Logs (DA) -
+https://developer.apple.com//bug-reporting/ios/diagnostics/
+
+Download -
+https://developer.apple.com//tvos/download/
+
+tvOS 9.2 beta 4 Release Notes -
+https://developer.apple.com//go/?id=tvos-9.2-sdk-rn
+
+Download the tvOS 9.2 beta 4 Restore Image -
+https://developer.apple.com//services-account/download?path=/iOS/tvOS_9.2_beta_4/AppleTV53_9.2_13Y5210d_Restore.ipsw
+
+Test Case Requirements -
+https://developer.apple.com//bug-reporting/ios/test-case/
+
+Using the Restore Image to Update with iTunes -
+https://developer.apple.com//services-account/download?path=/iOS/tvOS_beta_Software_Installation_Guide/tvOS_beta_Software_Installation_Guide.pdf
+
+Wi-Fi Logs -
+https://developer.apple.com//bug-reporting/ios/wi-fi/
+
+Download the tvOS 9.2 beta Configuration Profile -
+https://developer.apple.com//services-account/download?path=/iOS/tvOS_9.2_beta_Configuration_Profile/tvOS_beta_Configuration_Profile.mobileconfig
+
+Miscellaneous -
+https://developer.apple.com//bug-reporting/ios/misc/
+
+Using the Configuration Profile to Update with Apple Configurator -
+https://developer.apple.com/https://support.apple.com/en-us/HT202577
+
+tvOS Release Notes -
+https://developer.apple.com//go/?id=tvos-9.1-sdk-rn
+
+Mac -
+https://developer.apple.com//bug-reporting/mac/
+
+Download Xcode -
+https://developer.apple.com//xcode/download/
+
+Xcode -
+https://developer.apple.com//xcode/
+
+3rd Party Products -
+https://developer.apple.com//bug-reporting/mac/third-party/
+
+Xcode IDE -
+https://developer.apple.com//xcode/ide/
+
+Interface Builder -
+https://developer.apple.com//xcode/interface-builder/
+
+Bluetooth Logs -
+https://developer.apple.com//bug-reporting/mac/bluetooth/
+
+Features -
+https://developer.apple.com//xcode/features/
+
+Apple developer site -
+https://developer.apple.com//downloads/
+
+Console Logs -
+https://developer.apple.com//bug-reporting/mac/console/
+
+Swift -
+https://developer.apple.com//swift/
+
+Blog -
+https://developer.apple.com//swift/blog/
+
+Crash Logs -
+https://developer.apple.com//bug-reporting/mac/crash/
+
+Resources -
+https://developer.apple.com//swift/resources/
+
+iCloud -
+https://developer.apple.com//bug-reporting/mac/icloud/
+
+View latest releases of Xcode 7 -
+https://developer.apple.com//xcode/downloads/
+
+Download Xcode 7.3 beta 4 -
+https://developer.apple.com//services-account/download?path=/Developer_Tools/Xcode_7.3_beta_4/Xcode_7.3_beta_4.dmg
+
+Mail -
+https://developer.apple.com//bug-reporting/mac/mail/
+
+Xcode 7.3 beta 4 Release Notes -
+https://developer.apple.com//go/?id=xcode-7.3-rn
+
+View in the Mac App Store -
+https://developer.apple.com/https://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12
+
+Panic Reports -
+https://developer.apple.com//bug-reporting/mac/panic-reports/
+
+Xcode 7.2 Release Notes -
+https://developer.apple.com//go/?id=xcode-7.2-rn
+
+Guides and Tutorials -
+https://developer.apple.com//library/ios/navigation/#section=Topics&topic=Xcode
+
+Safari -
+https://developer.apple.com//bug-reporting/mac/safari/
+
+Forums -
+https://developer.apple.com/https://forums.developer.apple.com/community/xcode/
+
+System Information Report -
+https://developer.apple.com//bug-reporting/mac/system/
+
+Documentation -
+https://developer.apple.com//library/
+
+Time Machine -
+https://developer.apple.com//bug-reporting/mac/time-machine/
+
+iOS beta Library -
+https://developer.apple.com//library/prerelease/ios/
+
+Wi-Fi Logs -
+https://developer.apple.com//bug-reporting/mac/wi-fi/
+
+OS X beta Library -
+https://developer.apple.com//library/prerelease/mac/
+
+OS X Library -
+https://developer.apple.com//library/mac/
+
+Xcode -
+https://developer.apple.com//bug-reporting/mac/xcode/
+
+watchOS beta Library -
+https://developer.apple.com//library/prerelease/watchos/
+
+Miscellaneous -
+https://developer.apple.com//bug-reporting/mac/misc/
+
+watchOS Library -
+https://developer.apple.com//library/watchos/
+
+Other Products and Services -
+https://developer.apple.com//bug-reporting/other/
+
+tvOS beta Library -
+https://developer.apple.com//library/prerelease/tvos/
+
+AirPort Base Station -
+https://developer.apple.com//bug-reporting/other/airport/
+
+tvOS Library -
+https://developer.apple.com//library/tvos/
+
+Safari Library -
+https://developer.apple.com//library/safari/
+
+Apple TV -
+https://developer.apple.com//bug-reporting/other/appletv/
+
+iAd Library -
+https://developer.apple.com//library/iad/
+
+iAd Network -
+https://developer.apple.com//bug-reporting/other/iad-network/
+
+Forums -
+https://developer.apple.com/https://forums.developer.apple.com/
+
+App Store -
+https://developer.apple.com//app-store/
+
+ Sign In  -
+https://developer.apple.com/https://bugreport.apple.com/
+
+Sign in to iTunes Connect -
+https://developer.apple.com/https://itunesconnect.apple.com
+
+3rd Party Apps -
+https://developer.apple.com//bug-reporting/ios/applications
+
+The New iTunes Connect -
+https://developer.apple.com//videos/wwdc/2014/?id=302
+
+WWDC 2014 -
+https://developer.apple.com//videos/wwdc2014/
+
+Apple Push Notifications -
+https://developer.apple.com//bug-reporting/ios/push-notification
+
+Adopting AirPrint -
+https://developer.apple.com//videos/play/wwdc2014/718/
+
+Building Apps for Enterprise and Education -
+https://developer.apple.com//videos/play/wwdc2014/704/
+
+Cross Platform Nearby Networking -
+https://developer.apple.com//videos/play/wwdc2014/709/
+
+Baseband Logs (iPad) -
+https://developer.apple.com//bug-reporting/ios/baseband-ipad
+
+Designing Accessories for iOS and OS X -
+https://developer.apple.com//videos/play/wwdc2014/701/
+
+Distributing Enterprise Apps -
+https://developer.apple.com//videos/play/wwdc2014/705/
+
+Baseband Logs (iPhone) -
+https://developer.apple.com//bug-reporting/ios/baseband-iphone
+
+Fix Bugs Faster using Activity Tracing -
+https://developer.apple.com//videos/play/wwdc2014/714/
+
+Keychain and Authentication with Touch ID -
+https://developer.apple.com//videos/play/wwdc2014/711/
+
+Battery Life Logs -
+https://developer.apple.com//bug-reporting/ios/battery-life
+
+Kids and Apps -
+https://developer.apple.com//videos/play/wwdc2014/717/
+
+Managing Apple Devices -
+https://developer.apple.com//videos/play/wwdc2014/702/
+
+Bluetooth -
+https://developer.apple.com//bug-reporting/ios/bluetooth
+
+Power, Performance and Diagnostics: What's new in GCD and XPC -
+https://developer.apple.com//videos/play/wwdc2014/716/
+
+Taking Core Location Indoors -
+https://developer.apple.com//videos/play/wwdc2014/708/
+
+Calendar Data Export -
+https://developer.apple.com//bug-reporting/ios/calendar-data
+
+User Privacy in iOS and OS X -
+https://developer.apple.com//videos/play/wwdc2014/715/
+
+What's New in Core Location -
+https://developer.apple.com//videos/play/wwdc2014/706/
+
+Contacts Data Export -
+https://developer.apple.com//bug-reporting/ios/contacts-data
+
+What's New in Foundation Networking -
+https://developer.apple.com//videos/play/wwdc2014/707/
+
+What's New in iOS Notifications -
+https://developer.apple.com//videos/play/wwdc2014/713/
+
+Crash Logs -
+https://developer.apple.com//bug-reporting/ios/crash
+
+What's New in the Accelerate Framework -
+https://developer.apple.com//videos/play/wwdc2014/703/
+
+Writing Energy Efficient Code, Part 1 -
+https://developer.apple.com//videos/play/wwdc2014/710/
+
+Device Console Logs -
+https://developer.apple.com//bug-reporting/ios/device
+
+Writing Energy Efficient Code, Part 2 -
+https://developer.apple.com//videos/play/wwdc2014/712/
+
+A Look Inside Presentation Controllers -
+https://developer.apple.com//videos/play/wwdc2014/228/
+
+FaceTime Logs -
+https://developer.apple.com//bug-reporting/ios/misc/#facetime
+
+A Strategy for Great Work -
+https://developer.apple.com//videos/play/wwdc2014/237/
+
+Accessibility on OS X -
+https://developer.apple.com//videos/play/wwdc2014/207/
+
+iCloud Logs -
+https://developer.apple.com//bug-reporting/ios/icloud
+
+Accessibility on iOS -
+https://developer.apple.com//videos/play/wwdc2014/210/
+
+Adapting Your App to the New UI of OS X Yosemite -
+https://developer.apple.com//videos/play/wwdc2014/209/
+
+Adopting Advanced Features of the New UI of OS X Yosemite -
+https://developer.apple.com//videos/play/wwdc2014/220/
+
+iPod -
+https://developer.apple.com//bug-reporting/ios/ipod
+
+Adopting Handoff on iOS and OS X -
+https://developer.apple.com//videos/play/wwdc2014/219/
+
+Advanced CloudKit -
+https://developer.apple.com//videos/play/wwdc2014/231/
+
+iTunes Sync Logs (AirTraffic) -
+https://developer.apple.com//bug-reporting/ios/misc/#airtraffic
+
+Advanced Scrollviews and Touch Handling Techniques -
+https://developer.apple.com//videos/play/wwdc2014/235/
+
+Advanced Topics in Internationalization -
+https://developer.apple.com//videos/play/wwdc2014/201/
+
+Mail Logs -
+https://developer.apple.com//bug-reporting/ios/mail
+
+Advanced User Interfaces with Collection Views -
+https://developer.apple.com//videos/play/wwdc2014/232/
+
+Advanced iOS Application Architecture and Patterns -
+https://developer.apple.com//videos/play/wwdc2014/229/
+
+Messages Logs -
+https://developer.apple.com//bug-reporting/ios/misc/#messages
+
+Building Adaptive Apps with UIKit -
+https://developer.apple.com//videos/play/wwdc2014/216/
+
+Building Interruptible and Responsive Interactions -
+https://developer.apple.com//videos/play/wwdc2014/236/
+
+Stackshot Logs -
+https://developer.apple.com//bug-reporting/ios/stackshot
+
+Building a Document-based App -
+https://developer.apple.com//videos/play/wwdc2014/234/
+
+Core iOS Application Architectural Patterns -
+https://developer.apple.com//videos/play/wwdc2014/224/
+
+Sync Diagnostics Logs (DA) -
+https://developer.apple.com//bug-reporting/ios/diagnostics
+
+Creating Custom iOS User Interfaces -
+https://developer.apple.com//videos/play/wwdc2014/221/
+
+Test Case Requirements -
+https://developer.apple.com//bug-reporting/ios/test-case
+
+Creating Extensions for iOS and OS X, Part 1 -
+https://developer.apple.com//videos/play/wwdc2014/205/
+
+Creating Extensions for iOS and OS X, Part 2 -
+https://developer.apple.com//videos/play/wwdc2014/217/
+
+Creating Modern Cocoa Apps -
+https://developer.apple.com//videos/play/wwdc2014/227/
+
+Wi-Fi Logs -
+https://developer.apple.com//bug-reporting/ios/wifi
+
+Designing Intuitive User Experiences -
+https://developer.apple.com//videos/play/wwdc2014/211/
+
+Designing a Great In-App Purchase Experience -
+https://developer.apple.com//videos/play/wwdc2014/218/
+
+Miscellaneous -
+https://developer.apple.com//bug-reporting/ios/misc
+
+Introducing CloudKit -
+https://developer.apple.com//videos/play/wwdc2014/208/
+
+Introducing HealthKit -
+https://developer.apple.com//videos/play/wwdc2014/203/
+
+3rd Party Products -
+https://developer.apple.com//bug-reporting/mac/third-party
+
+Introducing HomeKit -
+https://developer.apple.com//videos/play/wwdc2014/213/
+
+Introducing the Modern WebKit API -
+https://developer.apple.com//videos/play/wwdc2014/206/
+
+Making a Great First Impression With Strong Onboarding Design -
+https://developer.apple.com//videos/play/wwdc2014/230/
+
+Bluetooth -
+https://developer.apple.com//bug-reporting/mac/bluetooth
+
+Optimize Your Earning Power With iAd -
+https://developer.apple.com//videos/play/wwdc2014/222/
+
+Prototyping: Fake It Till You Make It -
+https://developer.apple.com//videos/play/wwdc2014/223/
+
+Console Logs -
+https://developer.apple.com//bug-reporting/mac/console
+
+WWDC Prototyping -
+https://developer.apple.com//library/ios/toastmodern_sample/
+
+Crash Logs -
+https://developer.apple.com//bug-reporting/mac/crash
+
+Sharing code between iOS and OS X -
+https://developer.apple.com//videos/play/wwdc2014/233/
+
+Storyboards and Controllers on OS X -
+https://developer.apple.com//videos/play/wwdc2014/212/
+
+iCloud -
+https://developer.apple.com//bug-reporting/mac/icloud
+
+View Controller Advancements in iOS 8 -
+https://developer.apple.com//videos/play/wwdc2014/214/
+
+Mail -
+https://developer.apple.com//bug-reporting/mac/mail
+
+What's New in Cocoa -
+https://developer.apple.com//videos/play/wwdc2014/204/
+
+What's New in Cocoa Touch -
+https://developer.apple.com//videos/play/wwdc2014/202/
+
+What's New in Core Data -
+https://developer.apple.com//videos/play/wwdc2014/225/
+
+Panic Reports -
+https://developer.apple.com//bug-reporting/mac/panic-reports
+
+What's New in Table and Collection Views -
+https://developer.apple.com//videos/play/wwdc2014/226/
+
+Best Practices for Building SpriteKit Games -
+https://developer.apple.com//videos/play/wwdc2014/608/
+
+Safari -
+https://developer.apple.com//bug-reporting/mac/safari
+
+Building a Game with SceneKit -
+https://developer.apple.com//videos/play/wwdc2014/610/
+
+Designing for Game Controllers -
+https://developer.apple.com//videos/play/wwdc2014/611/
+
+Harnessing the Power of the Mac Pro with OpenGL and OpenCL -
+https://developer.apple.com//videos/play/wwdc2014/601/
+
+System Information Report -
+https://developer.apple.com//bug-reporting/mac/system
+
+Ingredients of Great Games -
+https://developer.apple.com//videos/play/wwdc2014/602/
+
+Motion Tracking with the Core Motion Framework -
+https://developer.apple.com//videos/play/wwdc2014/612/
+
+What's New in SceneKit -
+https://developer.apple.com//videos/play/wwdc2014/609/
+
+Time Machine -
+https://developer.apple.com//bug-reporting/mac/time-machine
+
+What's New in SpriteKit -
+https://developer.apple.com//videos/play/wwdc2014/606/
+
+Working with Metal: Advanced -
+https://developer.apple.com//videos/play/wwdc2014/605/
+
+Wi-Fi Logs -
+https://developer.apple.com//bug-reporting/mac/wifi
+
+Working with Metal: Fundamentals -
+https://developer.apple.com//videos/play/wwdc2014/604/
+
+Working with Metal: Overview -
+https://developer.apple.com//videos/play/wwdc2014/603/
+
+Xcode -
+https://developer.apple.com//bug-reporting/mac/xcode
+
+AVAudioEngine in Practice -
+https://developer.apple.com//videos/play/wwdc2014/502/
+
+Advanced Media for the Web -
+https://developer.apple.com//videos/play/wwdc2014/504/
+
+Miscellaneous -
+https://developer.apple.com//bug-reporting/mac/misc
+
+Advances in Core Image -
+https://developer.apple.com//videos/play/wwdc2014/514/
+
+Camera Capture: Manual Controls -
+https://developer.apple.com//videos/play/wwdc2014/508/
+
+Creating 3D Interactive Content with WebGL -
+https://developer.apple.com//videos/play/wwdc2014/509/
+
+Education -
+https://developer.apple.com//education/
+
+Designing Responsive Web Experiences -
+https://developer.apple.com//videos/play/wwdc2014/517/
+
+Learn about Playgrounds -
+https://developer.apple.com//swift/#playgrounds
+
+Developing Core Image Filters for iOS -
+https://developer.apple.com//videos/play/wwdc2014/515/
+
+Direct Access to Video Encoding and Decoding -
+https://developer.apple.com//videos/play/wwdc2014/513/
+
+Swift.org -
+https://developer.apple.com/https://www.swift.org
+
+Enterprise -
+https://developer.apple.com//enterprise/
+
+Harnessing Metadata in Audiovisual Media -
+https://developer.apple.com//videos/play/wwdc2014/505/
+
+Improving the Accessibility and Usability of Complex Web Applications -
+https://developer.apple.com//videos/play/wwdc2014/516/
+
+Integrate -
+https://developer.apple.com/#integrate
+
+
+						Apple Pay. An easier way to pay within apps.
+					 -
+https://developer.apple.com//apple-pay/
+
+Introducing the Photos Frameworks -
+https://developer.apple.com//videos/play/wwdc2014/511/
+
+Wallet - The home for Apple Pay and more -
+https://developer.apple.com//videos/wwdc/2015/?id=701
+
+Mastering Modern Media Playback -
+https://developer.apple.com//videos/play/wwdc2014/503/
+
+Web Inspector and Modern JavaScript -
+https://developer.apple.com//videos/play/wwdc2014/512/
+
+Apple Pay Within Apps -
+https://developer.apple.com//videos/wwdc/2015/?id=702
+
+What's New in Core Audio -
+https://developer.apple.com//videos/play/wwdc2014/501/
+
+Emporium: A Simple Shopping Experience with Apple Pay -
+https://developer.apple.com//library/prerelease/watchos/samplecode/Emporium
+
+What's New in iAd Workbench -
+https://developer.apple.com//videos/play/wwdc2014/510/
+
+Your App, Your Website, and Safari -
+https://developer.apple.com//videos/play/wwdc2014/506/
+
+Getting Started with Apple Pay -
+https://developer.apple.com//apple-pay/get-started/
+
+Affiliate Tools for App Developers -
+https://developer.apple.com//videos/play/wwdc2014/301/
+
+Apple Pay security and privacy -
+https://developer.apple.com/https://support.apple.com/en-us/HT203027
+
+Apple Pay Programming Guide -
+https://developer.apple.com/https://developer.apple.com/library/ios/ApplePay_Guide/
+
+Creating Great App Previews -
+https://developer.apple.com//videos/play/wwdc2014/304/
+
+In-App Purchase Programming Guide -
+https://developer.apple.com/https://developer.apple.com/library/ios/documentation/NetworkingInternet/Conceptual/StoreKitGuide/Introduction.html
+
+Certificates, Identifiers & Profiles -
+https://developer.apple.com/https://developer.apple.com/account/ios/identifiers/merchant/merchantLanding.action
+
+JavaScript for Automation -
+https://developer.apple.com//videos/play/wwdc2014/306/
+
+Apple Pay Certificate -
+https://developer.apple.com/https://developer.apple.com/account/ios/certificate/certificateCreate.action
+
+App Review Guidelines -
+https://developer.apple.com/https://developer.apple.com/app-store/review/guidelines/#apple-pay
+
+Optimizing In-App Purchases -
+https://developer.apple.com//videos/play/wwdc2014/303/
+
+Apple Pay Identity Guidelines -
+https://developer.apple.com/https://developer.apple.com/apple-pay/Apple-Pay-Identity-Guidelines.pdf
+
+Preventing Unauthorized Purchases with Receipts -
+https://developer.apple.com//videos/play/wwdc2014/305/
+
+iOS Human Interface Guidelines -
+https://developer.apple.com/https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/ApplePay.html#//apple_ref/doc/uid/TP40006556-CH69-SW1
+
+Apple Pay Within Apps -
+https://developer.apple.com/https://developer.apple.com/videos/wwdc/2015/?id=702
+
+The New iTunes Connect -
+https://developer.apple.com//videos/play/wwdc2014/302/
+
+Apple Pay for Developers page -
+https://developer.apple.com/https://developer.apple.com/apple-pay/
+
+Apple Design Awards -
+https://developer.apple.com//videos/play/wwdc2014/103/
+
+Enterprise Program -
+https://developer.apple.com//programs/enterprise/
+
+Keynote -
+https://developer.apple.com//videos/play/wwdc2014/101/
+
+How It Works -
+https://developer.apple.com//programs/enterprise/how-it-works/
+
+Platforms State of the Union -
+https://developer.apple.com//videos/play/wwdc2014/102/
+
+Enroll -
+https://developer.apple.com//programs/enterprise/enroll/
+
+Advanced Graphics and Animations for iOS Apps -
+https://developer.apple.com//videos/play/wwdc2014/419/
+
+Learn more -
+https://developer.apple.com//support/d-u-n-s/
+
+Advanced Swift -
+https://developer.apple.com//videos/play/wwdc2014/404/
+
+D-U-N-S Number look up tool -
+https://developer.apple.com//program/enroll/dunsLookupForm.action
+
+Advanced Swift Debugging in LLDB -
+https://developer.apple.com//videos/play/wwdc2014/410/
+
+Building Modern Frameworks -
+https://developer.apple.com//videos/play/wwdc2014/416/
+
+Contact Apple Developer Support -
+https://developer.apple.com/https://developer.apple.com/contact/
+
+email D&B -
+https://developer.apple.com/mailto:appdeveloper@dnb.com
+
+Continuous Integration with Xcode 6 -
+https://developer.apple.com//videos/play/wwdc2014/415/
+
+individual -
+https://developer.apple.com//programs/enroll/
+
+Debugging in Xcode 6 -
+https://developer.apple.com//videos/play/wwdc2014/413/
+
+What's Included -
+https://developer.apple.com//programs/whats-included/
+
+Improving Your App with Instruments -
+https://developer.apple.com//videos/play/wwdc2014/418/
+
+How It Works -
+https://developer.apple.com//programs/how-it-works/
+
+Integrating Swift with Objective-C -
+https://developer.apple.com//videos/play/wwdc2014/406/
+
+Intermediate Swift -
+https://developer.apple.com//videos/play/wwdc2014/403/
+
+Read the App Distribution Guide -
+https://developer.apple.com/https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/Introduction/Introduction.html
+
+Sign in -
+https://developer.apple.com//account/overview.action
+
+Introduction to LLDB and the Swift REPL -
+https://developer.apple.com//videos/play/wwdc2014/409/
+
+Sign in -
+https://developer.apple.com//membercenter/index.action#techSupport
+
+Introduction to Swift -
+https://developer.apple.com//videos/play/wwdc2014/402/
+
+Localizing with Xcode 6 -
+https://developer.apple.com//videos/play/wwdc2014/412/
+
+iOS University Program -
+https://developer.apple.com//programs/ios/university/
+
+Swift Interoperability In Depth -
+https://developer.apple.com//videos/play/wwdc2014/407/
+
+Apply Now -
+https://developer.apple.com//programs/ios/university/enroll/
+
+Swift Playgrounds -
+https://developer.apple.com//videos/play/wwdc2014/408/
+
+Start Your Enrollment -
+https://developer.apple.com//enroll/university/
+
+Testing in Xcode 6 -
+https://developer.apple.com//videos/play/wwdc2014/414/
+
+What's New in Interface Builder -
+https://developer.apple.com//videos/play/wwdc2014/411/
+
+enrollment support page -
+https://developer.apple.com//support/enrollment/
+
+What's New in LLVM -
+https://developer.apple.com//videos/play/wwdc2014/417/
+
+Learn more -
+https://developer.apple.com//support/D-U-N-S/
+
+Discuss with other developers -
+https://developer.apple.com/https://forums.developer.apple.com
+
+MFi Program -
+https://developer.apple.com//programs/mfi/
+
+What's New in Xcode 6 -
+https://developer.apple.com//videos/play/wwdc2014/401/
+
+iTunes Connect Developer Guide -
+https://developer.apple.com//library/ios/iTunesConnectGuide
+
+Programs -
+https://developer.apple.com//programs
+
+iOS Developer Library -
+https://developer.apple.com/../../../../../navigation/
+
+Next -
+https://developer.apple.com/OverviewofiTunesConnect.html
+
+Learn more about TestFlight -
+https://developer.apple.com//testflight/
+
+Overview of iTunes Connect -
+https://developer.apple.com/OverviewofiTunesConnect.html#//apple_ref/doc/uid/TP40011225-CH12-SW1
+
+iTunes Connect Developer Guide: TestFlight Beta Testing -
+https://developer.apple.com/https://developer.apple.com/library/ios/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Chapters/BetaTestingTheApp.html#//apple_ref/doc/uid/TP40011225-CH35
+
+First Steps: Identifying Your App in iTunes Connect -
+https://developer.apple.com/FirstSteps.html#//apple_ref/doc/uid/TP40011225-CH19-SW1
+
+App Store Review Guidelines -
+https://developer.apple.com//app-store/review/guidelines/
+
+Setting Up User Accounts -
+https://developer.apple.com/SettingUpUserAccounts.html#//apple_ref/doc/uid/TP40011225-CH25-SW1
+
+Managing Agreements, Tax, and Banking -
+https://developer.apple.com/ManagingContractsandBanking.html#//apple_ref/doc/uid/TP40011225-CH21-SW1
+
+Creating an iTunes Connect Record for an App -
+https://developer.apple.com/CreatingiTunesConnectRecord.html#//apple_ref/doc/uid/TP40011225-CH13-SW1
+
+Configuring Store Technologies (Optional) -
+https://developer.apple.com/ConfiguringStoreTechnologies.html#//apple_ref/doc/uid/TP40011225-CH2-SW6
+
+Terms and conditions -
+https://developer.apple.com/#terms-conditions
+
+Displaying on the Store in More Than One Language (Optional) -
+https://developer.apple.com/DisplayInMoreLanguages.html#//apple_ref/doc/uid/TP40011225-CH28-SW1
+
+System Status -
+https://developer.apple.com//system-status/
+
+Submitting the App to App Review -
+https://developer.apple.com/SubmittingTheApp.html#//apple_ref/doc/uid/TP40011225-CH33-SW1
+
+TestFlight Beta Testing (Optional) -
+https://developer.apple.com/BetaTestingTheApp.html#//apple_ref/doc/uid/TP40011225-CH35-SW2
+
+License Agreements -
+https://developer.apple.com//terms/
+
+Improving Your Customersâ Experience -
+https://developer.apple.com/ImprovingCustomersExperience.html#//apple_ref/doc/uid/TP40011225-CH27-SW1
+
+Viewing App Analytics -
+https://developer.apple.com/../ViewingAnalytics/ViewingAnalytics.html#//apple_ref/doc/uid/TP40011225-CH39-SW1
+
+Apple Developer Agreement -
+https://developer.apple.com//programs/terms/apple_developer_agreement.pdf
+
+Viewing Sales and Trends -
+https://developer.apple.com/ViewingSalesandTrendInformation.html#//apple_ref/doc/uid/TP40011225-CH20-SW1
+
+Viewing Payments and Financial Reports -
+https://developer.apple.com/ViewingPaymentsandFinancials.html#//apple_ref/doc/uid/TP40011225-CH22-SW1
+
+Working with Catalog Reports -
+https://developer.apple.com/WorkingWithCatalogReports.html#//apple_ref/doc/uid/TP40011225-CH24-SW1
+
+Viewing and Changing Your Appâs Metadata -
+https://developer.apple.com/ChangingAppMetadata.html#//apple_ref/doc/uid/TP40011225-CH3-SW1
+
+Apple Developer Program License Agreement -
+https://developer.apple.com/https://developer.apple.com/services-account/download?path=/Documentation/License_Agreements__Apple_Developer_Program/Apple_Developer_Program_Agreement_20150909.pdf
+
+Viewing and Changing Your Appâs Status and Availability -
+https://developer.apple.com/ChangingAppStatus.html#//apple_ref/doc/uid/TP40011225-CH30-SW1
+
+Apple Developer Enterprise Program License Agreement -
+https://developer.apple.com/https://developer.apple.com/services-account/download?path=/Documentation/License_Agreements__Apple_Developer_Enterprise_Program/Apple_Developer_Program_Enterprise_Agreement_20150909.pdf
+
+iOS Developer University Program License Agreement -
+https://developer.apple.com/https://developer.apple.com/services-account/download?path=/Documents/license_agreements__ios_university/ios_program_university_agreement_20140917.pdf
+
+Replacing Your App with a New Version -
+https://developer.apple.com/ReplacingYourAppWithANewVersion.html#//apple_ref/doc/uid/TP40011225-CH14-SW1
+
+Transferring and Deleting Apps -
+https://developer.apple.com/TransferringAndDeletingApps.html#//apple_ref/doc/uid/TP40011225-CH31-SW1
+
+Licensing Apple Technologies and Trademarks -
+https://developer.apple.com//softwarelicensing/
+
+App Distribution Guide -
+https://developer.apple.com/../../../../IDEs/Conceptual/AppDistributionGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40012582
+
+Audio Units -
+https://developer.apple.com//softwarelicensing/agreements/audio.php
+
+App Review -
+https://developer.apple.com/https://developer.apple.com/app-store/review/
+
+Game Center Configuration Guide for iTunes Connect -
+https://developer.apple.com/../../iTunesConnectGameCenter_Guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40013726
+
+In-App Purchase Configuration Guide for iTunes Connect -
+https://developer.apple.com/../../iTunesConnectInAppPurchase_Guide/Chapters/Introduction.html#//apple_ref/doc/uid/TP40013727
+
+Bonjour -
+https://developer.apple.com//softwarelicensing/agreements/bonjour.php
+
+Bug Reporter -
+https://developer.apple.com/https://developer.apple.com/bugreporter/
+
+App Store Product Page -
+https://developer.apple.com//app-store/product-page/
+
+FireWire -
+https://developer.apple.com//softwarelicensing/agreements/firewire.php
+
+all required sizes -
+https://developer.apple.com/https://developer.apple.com/library/ios/documentation/userexperience/conceptual/MobileHIG/IconMatrix.html
+
+Image Units -
+https://developer.apple.com//softwarelicensing/agreements/imageunits.php
+
+iOS Human Interface Guidelines -
+https://developer.apple.com/https://developer.apple.com/library/ios/documentation/userexperience/conceptual/MobileHIG/AppIcons.html#//apple_ref/doc/uid/TP40006556-CH19-SW1
+
+iMovie and Final Cut Pro X -
+https://developer.apple.com//softwarelicensing/agreements/imovie.php
+
+App Previews page -
+https://developer.apple.com/https://developer.apple.com/app-store/app-previews/
+
+Books -
+https://developer.apple.com/#books
+
+iPod, iPhone, and iPad Icons -
+https://developer.apple.com//softwarelicensing/agreements/icons.php
+
+Business -
+https://developer.apple.com/#business
+
+Catalogs -
+https://developer.apple.com/#catalogs
+
+iTunes -
+https://developer.apple.com//softwarelicensing/agreements/itunes.php
+
+Education -
+https://developer.apple.com/#education
+
+Mac Logo -
+https://developer.apple.com//softwarelicensing/agreements/maclogo.php
+
+Entertainment -
+https://developer.apple.com/#entertainment
+
+Finance -
+https://developer.apple.com/#finance
+
+Mini DisplayPort -
+https://developer.apple.com//softwarelicensing/agreements/minidisplayport.php
+
+Food & Drink -
+https://developer.apple.com/#food
+
+OpenCL -
+https://developer.apple.com//softwarelicensing/agreements/opencl.php
+
+Games -
+https://developer.apple.com/#games
+
+Health & Fitness -
+https://developer.apple.com/#health
+
+QuickTime -
+https://developer.apple.com//softwarelicensing/agreements/quicktime.php
+
+Lifestyle -
+https://developer.apple.com/#lifestyle
+
+Learn more -
+https://developer.apple.com//app-store/marketing/guidelines/
+
+Kids -
+https://developer.apple.com/#kids
+
+Magazines & Newspapers -
+https://developer.apple.com/#newsstand
+
+Overview and Requirements -
+https://developer.apple.com/#overview
+
+Medical -
+https://developer.apple.com/#medical
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=App%20marketing%20materials%20-%20%5BInsert%20App%20Name%5D&body=Provide%20a%20brief%20description%20of%20the%20campaign%20timeline%20and%20include%20the%20following%20information%20with%20your%20submission%3A%0D%0A%0D%0AContact%20details%20and%20phone%20number%3A%0D%0APublisher%20name%3A%0D%0AApp%20name%3A%0D%0AApple%20App%20ID%20or%20App%20Store%20URL%3A%0D%0ACampaign%20spend%20or%20media%20value%3A%0D%0AImpressions%20expected%3A%0D%0AList%20of%20countries%20where%20the%20campaign%20will%20run%3A
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=App%20marketing%20materials%20-%20%5BInsert%20App%20Name%5D&body=Attach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20promoting.%20%20%0A%0AInclude%20the%20following%20information%3A%0A%0AContact%20details%20with%20phone%20number%3A%0APublisher%20name%3A%0AApp%20name%3A%0AApple%20App%20ID%20or%20App%20Store%20URL%3A%0AMarketing%20channels%3A%0ACampaign%20spend%20or%20media%20value%3A%20%0AImpressions%20expected%3A
+
+Music -
+https://developer.apple.com/#music
+
+Download on the App Store Badge -
+https://developer.apple.com/#downloadOnAppstore
+
+Navigation -
+https://developer.apple.com/#navigation
+
+Apple Pay Identity Guidelines -
+https://developer.apple.com//apple-pay/Apple-Pay-Identity-Guidelines.pdf
+
+News -
+https://developer.apple.com/#news
+
+Photo & Video -
+https://developer.apple.com/#photo
+
+Productivity -
+https://developer.apple.com/#productivity
+
+Reference -
+https://developer.apple.com/#reference
+
+Social Networking -
+https://developer.apple.com/#social
+
+Sports -
+https://developer.apple.com/#sports
+
+Travel -
+https://developer.apple.com/#travel
+
+Utilities -
+https://developer.apple.com/#utilities
+
+Weather -
+https://developer.apple.com/#weather
+
+Using Application Loader -
+https://developer.apple.com/https://itunesconnect.apple.com/docs/UsingApplicationLoader.pdf
+
+Learn more about App Store Review -
+https://developer.apple.com//app-store/review/
+
+Mac App Store Review Guidelines -
+https://developer.apple.com//app-store/review/guidelines/mac/
+
+Functionality -
+https://developer.apple.com/#functionality
+
+Metadata, ratings and rankings -
+https://developer.apple.com/#metadata
+
+Location -
+https://developer.apple.com/#location
+
+Trademarks and trade dress -
+https://developer.apple.com/#trademarks
+
+User interface -
+https://developer.apple.com/#user-interface
+
+Purchasing and currencies -
+https://developer.apple.com/#purchasing-currencies
+
+Scraping and aggregation -
+https://developer.apple.com/#scraping-aggregation
+
+Damage to products -
+https://developer.apple.com/#damage-to-products
+
+Personal attacks -
+https://developer.apple.com/#personal-attacks
+
+Violence -
+https://developer.apple.com/#violence
+
+Objectionable content -
+https://developer.apple.com/#objectionable-content
+
+Privacy -
+https://developer.apple.com/#privacy
+
+Pornography -
+https://developer.apple.com/#pornography
+
+Religion, culture, and ethnicity -
+https://developer.apple.com/#religion-culture-ethnicity
+
+Contests, sweepstakes, lotteries, and raffles -
+https://developer.apple.com/#contests
+
+Charities and contributions -
+https://developer.apple.com/#charities-contributions
+
+Legal requirements -
+https://developer.apple.com/#legal-requirements
+
+Push Notifications -
+https://developer.apple.com/#push-notifications
+
+Game Center -
+https://developer.apple.com/#game-center
+
+Safari Extensions -
+https://developer.apple.com/#safari-extensions
+
+Program License Agreement -
+https://developer.apple.com//membercenter/index.action#agreements
+
+OS X Human Interface Guidelines -
+https://developer.apple.com/https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/
+
+Safari Extensions Development Guide -
+https://developer.apple.com/https://developer.apple.com/library/safari/documentation/Tools/Conceptual/SafariExtensionGuide/Introduction/Introduction.html
+
+App Review -
+https://developer.apple.com//app-store/review
+
+Apple Product Images -
+https://developer.apple.com/#images
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=High%20resolution%20Apple%20product%20image%20request&body=Specify%20the%20Apple%20product%20image%20needed%20and%20detail%20resolution%20requirements.%0AAttach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20promoting.%0A%0AInclude%20the%20following%20information%3A%0A%0AContact%20details%20with%20phone%20number%3A%0APublisher%20name%3A%0AApp%20name%3A%0AApple%20App%20ID%20or%20App%20Store%20URL%3A%0AMarketing%20channels%3A%0ACampaign%20spend%20or%20media%20value%3A%20%0AImpressions%20expected%3A
+
+Learn more -
+https://developer.apple.com//app-store/review/rejections/
+
+Section 5.6 -
+https://developer.apple.com/#5.6
+
+design guides -
+https://developer.apple.com//design/
+
+Custom Photography and Video -
+https://developer.apple.com/#photography
+
+Legal Requirements -
+https://developer.apple.com/#legal
+
+Designing for Apple TV -
+https://developer.apple.com//videos/play/techtalks-apple-tv/2/
+
+Messaging and Writing Style -
+https://developer.apple.com/#messaging
+
+Apple TV Human Interface Guidelines -
+https://developer.apple.com//tvos/human-interface-guidelines/
+
+promoreview@apple.com -
+https://developer.apple.com/mailto:promoreview@apple.com?subject=Promotion%20review%20request&body=Provide%20a%20brief%20explanation%20of%20your%20contest%2C%20sweepstakes%20or%20giveaway%20promotional%20plan%2C%20detailing%20use%20of%20Apple%20products.%0A%0AInclude%20the%20following%20information%3A%0A%0AContact%20details%20with%20phone%20number%3A%0ACompany%20name%3A%0AMarketing%20channels%3A%0ACampaign%20spend%20or%20media%20value%3A%20%0AImpressions%20expected%3A
+
+Design Principles -
+https://developer.apple.com/#design-principles
+
+Promoting Your App for Apple Watch -
+https://developer.apple.com/#apple-watch
+
+Apps -
+https://developer.apple.com/#apps
+
+Apps with Accessories and Product Packaging -
+https://developer.apple.com/#accessories
+
+Home Screen -
+https://developer.apple.com/#home-screen
+
+Learn more -
+https://developer.apple.com//softwarelicensing/agreements/icons.html
+
+Top Shelf -
+https://developer.apple.com/#top-shelf
+
+Focus and Parallax -
+https://developer.apple.com/#focus-and-parallax
+
+Learn more -
+https://developer.apple.com//app-store/marketing/guidelines/mac/
+
+Remote and Interaction -
+https://developer.apple.com//tvos/human-interface-guidelines/remote-and-interaction/
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=App%20marketing%20materials%20-%20%5BInsert%20App%20Name%5D&body=Attach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20promoting.%20%20%0A%0AInclude%20the%20following%20information%3A%0A%0AContact%20details%20with%20phone%20number%3A%0APublisher%20name%3A%0AApp%20name%3A%0AApple%20App%20ID%20or%20Mac%20App%20Store%20URL%3A%0AMarketing%20channels%3A%0ACampaign%20spend%20or%20media%20value%3A%20%0AImpressions%20expected%3A
+
+Remote -
+https://developer.apple.com/#remote
+
+Download .zip file (243 KB) -
+https://developer.apple.com/#agreement
+
+Gestures -
+https://developer.apple.com/#gestures
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=High%20resolution%20Apple%20product%20image%20request&body=Specify%20the%20Apple%20product%20image%20needed%20and%20detail%20resolution%20requirements.%0AAttach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20promoting.%0A%0AInclude%20the%20following%20information%3A%0A%0AContact%20details%20with%20phone%20number%3A%0APublisher%20name%3A%0AApp%20name%3A%0AApple%20App%20ID%20or%20Mac%20App%20Store%20URL%3A%0AMarketing%20channels%3A%0ACampaign%20spend%20or%20media%20value%3A%20%0AImpressions%20expected%3A
+
+Game Controllers -
+https://developer.apple.com/#game-controllers
+
+Mac App Store Icon -
+https://developer.apple.com/#appstore
+
+Buttons -
+https://developer.apple.com/#buttons
+
+Agree and Download -
+https://developer.apple.com/#download
+
+Navigation and Focus -
+https://developer.apple.com//tvos/human-interface-guidelines/navigation-and-focus/
+
+Deutsch -
+https://developer.apple.com//app-store/marketing/guidelines/mac/de/
+
+Focus and Selection -
+https://developer.apple.com/#focus-and-selection
+
+Icons and Images -
+https://developer.apple.com//tvos/human-interface-guidelines/icons-and-images/
+
+marcomreview@apple.com. -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=App%20marketing%20materials%20-%20%5BAppname%20einsetzen%5D&body=Please%20submit%20your%20email%20in%20English.%0ABitte%20verfassen%20Sie%20Ihre%20E-Mail%20auf%20Englisch.%0A%0AAttach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20promoting.%0AF%C3%BCgen%20Sie%20ein%20Beispiel%20Ihrer%20Kommunikation%20an%20und%20senden%20Sie%20eine%20kurze%20Beschreibung%20der%20App%2C%20f%C3%BCr%20die%20Sie%20werben.%0A%0AInclude%20the%20following%20information%20(Reichen%20Sie%20die%20folgenden%20Informationen%20ein)%3A%0A%0AContact%20details%20with%20phone%20number%20(Kontaktinformationen%20mit%20Telefonnummer)%3A%0APublisher%20name%20(Name%20des%20Entwicklers)%3A%0AApp%20name%20(Name%20der%20App%3A)%3A%0AApple%20App%20ID%20or%20Mac%20App%20Store%20URL%20(Apple%20App-ID%20oder%20Mac%20App%20Store%20URL)%3A%0AMarketing%20channels%20(Marketingkan%C3%A4le)%3A%0ACampaign%20spend%20or%20media%20value%20(Kosten%20der%20Kampagne%20oder%20Medienwert)%3A%20%0AImpressions%20expected%20(Erwartete%20Wirkung)%3A
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=High%20resolution%20Apple%20product%20image%20request&body=Please%20submit%20your%20email%20in%20English.%0ABitte%20verfassen%20Sie%20Ihre%20E-Mail%20auf%20Englisch.%0A%0ASpecify%20the%20Apple%20product%20image%20needed%20and%20detail%20resolution%20requirements.%0ABeschreiben%20Sie%20das%20ben%C3%B6tigte%20Apple%20Produktbild%20und%20geben%20Sie%20die%20erforderliche%20Aufl%C3%B6sung%20an.%0A%0AAttach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20promoting.%0AF%C3%BCgen%20Sie%20ein%20Beispiel%20Ihrer%20Kommunikation%20an%20und%20senden%20Sie%20eine%20kurze%20Beschreibung%20der%20App%2C%20f%C3%BCr%20die%20Sie%20werben.%0A%0AInclude%20the%20following%20information%20(Reichen%20Sie%20die%20folgenden%20Informationen%20ein)%3A%0A%0AContact%20details%20with%20phone%20number%20(Kontaktinformationen%20mit%20Telefonnummer)%3A%0APublisher%20name%20(Name%20des%20Entwicklers)%3A%0AApp%20name%20(Name%20der%20App%3A)%3A%0AApple%20App%20ID%20or%20Mac%20App%20Store%20URL%20(Apple%20App-ID%20oder%20Mac%20App%20Store%20URL)%3A%0AMarketing%20channels%20(Marketingkan%C3%A4le)%3A%0ACampaign%20spend%20or%20media%20value%20(Kosten%20der%20Kampagne%20oder%20Medienwert)%3A%20%0AImpressions%20expected%20(Erwartete%20Wirkung)%3A
+
+Image Size and Resolution -
+https://developer.apple.com/#image-size-and-resolution
+
+promoreview@apple.com -
+https://developer.apple.com/mailto:promoreview@apple.com?subject=Promotion%20review%20request&body=Please%20submit%20your%20email%20in%20English.%0ABitte%20verfassen%20Sie%20Ihre%20E-Mail%20auf%20Englisch.%0A%0AProvide%20a%20brief%20explanation%20of%20your%20contest%2C%20sweepstakes%20or%20giveaway%20promotional%20plan%2C%20detailing%20use%20of%20Apple%20products.%0AReichen%20Sie%20eine%20kurze%20Beschreibung%20Ihres%20Plans%20f%C3%BCr%20Preisausschreiben%2C%20Gewinnspiele%20oder%20Werbegeschenke%20ein%20sowie%20eine%20genaue%20Schilderung%2C%20wie%20Apple%20Produkte%20dabei%20eingesetzt%20werden%20sollen.%0A%0AInclude%20the%20following%20information%20(Reichen%20Sie%20die%20folgenden%20Informationen%20ein)%3A%0A%0AContact%20details%20with%20phone%20number%20(Kontaktinformationen%20mit%20Telefonnummer)%3A%0ACompany%20name%20(Firmenname)%3A%0AMarketing%20channels%20(Marketingkan%C3%A4le)%3A%0ACampaign%20spend%20or%20media%20value%20(Kosten%20der%20Kampagne%20oder%20Medienwert)%3A%20%0AImpressions%20expected%20(Erwartete%20Wirkung)%3A
+
+App Icon -
+https://developer.apple.com/#app-icon
+
+EspaÃ±ol -
+https://developer.apple.com//app-store/marketing/guidelines/mac/es/
+
+Game Center Images -
+https://developer.apple.com/#game-center-images
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=App%20marketing%20materials%20-%20%5BInsertar%20nombre%20de%20la%20app%5D&body=Please%20submit%20your%20email%20in%20English.%0APor%20favor%2C%20env%C3%ADa%20tu%20correo%20electr%C3%B3nico%20en%20ingl%C3%A9s.%0A%0AAttach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20promoting.%0AAdjunta%20un%20ejemplo%20de%20tu%20comunicaci%C3%B3n%20y%20describe%20brevemente%20la%20app%20que%20quieres%20promocionar.%0A%0AInclude%20the%20following%20information%20(Incluye%20la%20informaci%C3%B3n%20siguiente)%3A%0A%0AContact%20details%20with%20phone%20number%20(Datos%20de%20contacto%20con%20n%C3%BAmero%20de%20tel%C3%A9fono)%3A%0APublisher%20name%20(Nombre%20del%20desarrollador)%3A%0AApp%20name%20(Nombre%20de%20la%20app)%3A%0AApple%20App%20ID%20or%20Mac%20App%20Store%20URL%20(ID%20de%20Apple%20de%20la%20app%20o%20URL%20en%20el%20Mac%20App%20Store)%3A%0AMarketing%20channels%20(Canales%20de%20marketing)%3A%0ACampaign%20spend%20or%20media%20value%20(Gasto%20de%20campa%C3%B1a%20o%20valor%20de%20medios)%3A%20%0AImpressions%20expected%20(N%C3%BAmero%20esperado%20de%20impresiones)%3A
+
+Layered Images -
+https://developer.apple.com/#layered-images
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=High%20resolution%20Apple%20product%20image%20request&body=Please%20submit%20your%20email%20in%20English.%0APor%20favor%2C%20env%C3%ADa%20tu%20correo%20electr%C3%B3nico%20en%20ingl%C3%A9s.%0A%0ASpecify%20the%20Apple%20product%20image%20needed%20and%20detail%20resolution%20requirements.%0AEspecifica%20la%20imagen%20de%20producto%20Apple%20que%20necesitas%20y%20sus%20requisitos%20de%20resoluci%C3%B3n.%0A%0AAttach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20promoting.%0AAdjunta%20un%20ejemplo%20de%20tu%20comunicaci%C3%B3n%20y%20describe%20brevemente%20la%20app%20que%20quieres%20promocionar.%0A%0AInclude%20the%20following%20information%20(Incluye%20la%20informaci%C3%B3n%20siguiente)%3A%0A%0AContact%20details%20with%20phone%20number%20(Datos%20de%20contacto%20con%20n%C3%BAmero%20de%20tel%C3%A9fono)%3A%0APublisher%20name%20(Nombre%20del%20desarrollador)%3A%0AApp%20name%20(Nombre%20de%20la%20app)%3A%0AApple%20App%20ID%20or%20Mac%20App%20Store%20URL%20(ID%20de%20Apple%20de%20la%20app%20o%20URL%20en%20el%20Mac%20App%20Store)%3A%0AMarketing%20channels%20(Canales%20de%20marketing)%3A%0ACampaign%20spend%20or%20media%20value%20(Gasto%20de%20campa%C3%B1a%20o%20valor%20de%20medios)%3A%20%0AImpressions%20expected%20(N%C3%BAmero%20esperado%20de%20impresiones)%3A
+
+Launch Image -
+https://developer.apple.com/#launch-image
+
+promoreview@apple.com -
+https://developer.apple.com/mailto:promoreview@apple.com?subject=Promotion%20review%20request&body=Please%20submit%20your%20email%20in%20English.%0APor%20favor%2C%20env%C3%ADa%20tu%20correo%20electr%C3%B3nico%20en%20ingl%C3%A9s.%0A%0AProvide%20a%20brief%20explanation%20of%20your%20contest%2C%20sweepstakes%20or%20giveaway%20promotional%20plan%2C%20detailing%20use%20of%20Apple%20products.%0AIncluye%20una%20breve%20explicaci%C3%B3n%20de%20tu%20concurso%2C%20sorteo%20o%20plan%20de%20regalos%20promocional%20y%20el%20uso%20de%20productos%20Apple%20en%20los%20mismos.%0A%0AInclude%20the%20following%20information%20(Incluye%20la%20informaci%C3%B3n%20siguiente)%3A%0A%0AContact%20details%20with%20phone%20number%20(Datos%20de%20contacto%20con%20n%C3%BAmero%20de%20tel%C3%A9fono)%3A%0ACompany%20name%20(Nombre%20de%20la%20empresa)%3A%0AMarketing%20channels%20(Canales%20de%20marketing)%3A%0ACampaign%20spend%20or%20media%20value%20(Gasto%20de%20campa%C3%B1a%20o%20valor%20de%20medios)%3A%20%0AImpressions%20expected%20(N%C3%BAmero%20esperado%20de%20impresiones)%3A
+
+Visual Design -
+https://developer.apple.com//tvos/human-interface-guidelines/visual-design/
+
+FrancÌ§ais -
+https://developer.apple.com//app-store/marketing/guidelines/mac/fr/
+
+Layout -
+https://developer.apple.com/#layout
+
+Content -
+https://developer.apple.com/#content
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=App%20marketing%20materials%20-%20%5BIns%C3%A9rer%20le%20nom%20de%20l%E2%80%99app%5D&body=Please%20submit%20your%20email%20in%20English.%0AVeuillez%20soumettre%20votre%20e-mail%20en%20anglais.%0A%0AAttach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20promoting.%0ASoumettez%20un%20exemple%20de%20votre%20communication%20et%20d%C3%A9crivez%20bri%C3%A8vement%20l%E2%80%99app%20dont%20vous%20faites%20la%20promotion.%20%20%0A%0AInclude%20the%20following%20information%20(Incluez%20les%20informations%20suivantes)%3A%0A%0AContact%20details%20with%20phone%20number%20(Nom%20de%20contact%20ainsi%20qu%E2%80%99un%20num%C3%A9ro%20de%20t%C3%A9l%C3%A9phone)%3A%0APublisher%20name%20(Nom%20d%E2%80%99%C3%A9diteur)%3A%0AApp%20name%20(Nom%20de%20l%E2%80%99app)%3A%0AApple%20App%20ID%20or%20Mac%20App%20Store%20URL%20(Identifiant%20Apple%20de%20l%E2%80%99app%20ou%20adresse%20URL%20de%20l%E2%80%99app%20dans%20l%E2%80%99Mac%20App%20Store)%3A%0AMarketing%20channels%20(Canaux%20marketing)%3A%0ACampaign%20spend%20or%20media%20value%20(Co%C3%BBt%20ou%20valeur%20de%20la%20campagne)%3A%20%0AImpressions%20expected%20(R%C3%A9sultats%20escompt%C3%A9s)%3A
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=High%20resolution%20Apple%20product%20image%20request&body=Please%20submit%20your%20email%20in%20English.%0AVeuillez%20soumettre%20votre%20e-mail%20en%20anglais.%0A%0ASpecify%20the%20Apple%20product%20image%20needed%20and%20detail%20resolution%20requirements.%0APr%C3%A9cisez%20le%20visuel%20de%20produit%20Apple%20n%C3%A9cessaire%20et%20indiquez%20pr%C3%A9cis%C3%A9ment%20la%20r%C3%A9solution%20souhait%C3%A9e.%0A%0AAttach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20promoting.%0ASoumettez%20un%20exemple%20de%20votre%20communication%20et%20d%C3%A9crivez%20bri%C3%A8vement%20l%E2%80%99app%20dont%20vous%20faites%20la%20promotion.%0A%0AInclude%20the%20following%20information%20(Incluez%20les%20informations%20suivantes)%3A%0A%0AContact%20details%20with%20phone%20number%20(Nom%20de%20contact%20ainsi%20qu%E2%80%99un%20num%C3%A9ro%20de%20t%C3%A9l%C3%A9phone)%3A%0APublisher%20name%20(Nom%20d%E2%80%99%C3%A9diteur)%3A%0AApp%20name%20(Nom%20de%20l%E2%80%99app)%3A%0AApple%20App%20ID%20or%20Mac%20App%20Store%20URL%20(Identifiant%20Apple%20de%20l%E2%80%99app%20ou%20adresse%20URL%20de%20l%E2%80%99app%20dans%20l%E2%80%99Mac%20App%20Store)%3A%0AMarketing%20channels%20(Canaux%20marketing)%3A%0ACampaign%20spend%20or%20media%20value%20(Co%C3%BBt%20ou%20valeur%20de%20la%20campagne)%3A%20%0AImpressions%20expected%20(R%C3%A9sultats%20escompt%C3%A9s)%3A
+
+Typography -
+https://developer.apple.com/#typography
+
+promoreview@apple.com -
+https://developer.apple.com/mailto:promoreview@apple.com?subject=Promotion%20review%20request&body=Please%20submit%20your%20email%20in%20English.%0AVeuillez%20soumettre%20votre%20e-mail%20en%20anglais.%0A%0AProvide%20a%20brief%20explanation%20of%20your%20contest%2C%20sweepstakes%20or%20giveaway%20promotional%20plan%2C%20detailing%20use%20of%20Apple%20products.%0AFournissez%20un%20bref%20descriptif%20de%20votre%20concours%2C%20tombola%20ou%20jeu%20promotionnel%2C%20et%20indiquez%20en%20d%C3%A9tail%20l%E2%80%99utilisation%20pr%C3%A9vue%20des%20produits%20Apple.%0A%0AInclude%20the%20following%20information%20(Incluez%20les%20informations%20suivantes)%3A%0A%0AContact%20details%20with%20phone%20number%20(Nom%20de%20contact%20ainsi%20qu%E2%80%99un%20num%C3%A9ro%20de%20t%C3%A9l%C3%A9phone)%3A%0ACompany%20name%20(Nom%20de%20la%20soci%C3%A9t%C3%A9)%3A%0AMarketing%20channels%20(Canaux%20marketing)%3A%0ACampaign%20spend%20or%20media%20value%20(Co%C3%BBt%20ou%20valeur%20de%20la%20campagne)%3A%20%0AImpressions%20expected%20(R%C3%A9sultats%20escompt%C3%A9s)%3A
+
+Branding -
+https://developer.apple.com/#branding
+
+Italiano -
+https://developer.apple.com//app-store/marketing/guidelines/mac/it/
+
+Color -
+https://developer.apple.com/#color
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=App%20marketing%20materials%20-%20%5BInserire%20nome%20della%20app%5D&body=Please%20submit%20your%20email%20in%20English.%0AVi%20preghiamo%20di%20scrivere%20la%20vostra%20mail%20in%20inglese.%0A%0AAttach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20promoting.%0AAllegate%20una%20copia%20della%20comunicazione%20e%20descrivete%20brevemente%20l%27app%20che%20intendete%20promuovere.%20%20%0A%0AInclude%20the%20following%20information%20(Includete%20le%20seguenti%20informazioni)%3A%0A%0AContact%20details%20with%20phone%20number%20(Contatti%20completi%20di%20numero%20di%20telefono)%3A%0APublisher%20name%20(Nome%20dello%20sviluppatore)%3A%0AApp%20name%20(Nome%20della%20app)%3A%0AApple%20App%20ID%20or%20Mac%20App%20Store%20URL%20(ID%20Apple%20della%20app%20o%20URL%20Mac%20App%20Store)%3A%0AMarketing%20channels%20(Canali%20di%20marketing)%3A%0ACampaign%20spend%20or%20media%20value%20(Spese%20campagna%20o%20stima%20dei%20media)%3A%20%0AImpressions%20expected%20(Previsione%20stampe)%3A
+
+Textures -
+https://developer.apple.com/#textures
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=High%20resolution%20Apple%20product%20image%20request&body=Please%20submit%20your%20email%20in%20English.%0AVi%20preghiamo%20di%20scrivere%20la%20vostra%20mail%20in%20inglese.%0A%0ASpecify%20the%20Apple%20product%20image%20needed%20and%20detail%20resolution%20requirements.%0ASpecificate%20l%27immagine%20del%20prodotto%20Apple%20richiesta%20e%20descrivete%20i%20requisiti%20di%20risoluzione.%0A%0AAttach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20promoting.%0AAllegate%20un%20esempio%20della%20comunicazione%20e%20descrivete%20brevemente%20l%27app%20che%20intendete%20promuovere.%0A%0AInclude%20the%20following%20information%20(Includete%20le%20seguenti%20informazioni)%3A%0A%0AContact%20details%20with%20phone%20number%20(Contatti%20completi%20di%20numero%20di%20telefono)%3A%0APublisher%20name%20(Nome%20dello%20sviluppatore)%3A%0AApp%20name%20(Nome%20della%20app)%3A%0AApple%20App%20ID%20or%20Mac%20App%20Store%20URL%20(ID%20Apple%20della%20app%20o%20URL%20Mac%20App%20Store)%3A%0AMarketing%20channels%20(Canali%20di%20marketing)%3A%0ACampaign%20spend%20or%20media%20value%20(Spese%20campagna%20o%20stima%20dei%20media)%3A%20%0AImpressions%20expected%20(Previsione%20stampe)%3A
+
+Video -
+https://developer.apple.com/#video
+
+promoreview@apple.com -
+https://developer.apple.com/mailto:promoreview@apple.com?subject=Promotion%20review%20request&body=Please%20submit%20your%20email%20in%20English.%0AVi%20preghiamo%20di%20scrivere%20la%20vostra%20mail%20in%20inglese.%0A%0AProvide%20a%20brief%20explanation%20of%20your%20contest%2C%20sweepstakes%20or%20giveaway%20promotional%20plan%2C%20detailing%20use%20of%20Apple%20products.%0AFornite%20una%20breve%20presentazione%20del%20vostro%20concorso%2C%20estrazione%20a%20premi%20o%20piano%20omaggio%20promozionale%2C%20descrivendo%20in%20dettaglio%20l%27utilizzo%20dei%20prodotti%20Apple.%0A%0AInclude%20the%20following%20information%20(Includete%20le%20seguenti%20informazioni)%3A%0A%0AContact%20details%20with%20phone%20number%20(Contatti%20completi%20di%20numero%20di%20telefono)%3A%0ACompany%20name%20(Nome%20della%20societ%C3%A0)%3A%0AMarketing%20channels%20(Canali%20di%20marketing)%3A%0ACampaign%20spend%20or%20media%20value%20(Spese%20campagna%20o%20stima%20dei%20media)%3A%20%0AImpressions%20expected%20(Previsione%20stampe)%3A
+
+Animation -
+https://developer.apple.com/#animation
+
+PortugueÌs Brasil -
+https://developer.apple.com//app-store/marketing/guidelines/mac/br/
+
+Accessibility -
+https://developer.apple.com/#accessibility
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=App%20marketing%20materials%20-%20%5BInserir%20nome%20do%20app%5D&body=Please%20provide%20your%20information%20in%20English.%0AForne%C3%A7a%20suas%20informa%C3%A7%C3%B5es%20em%20ingl%C3%AAs.%0A%0AAttach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20promoting.%0AEnvie%20um%20exemplo%20da%20sua%20comunica%C3%A7%C3%A3o%20e%20descreva%20brevemente%20o%20app%20que%20voc%C3%AA%20est%C3%A1%20promovendo.%0A%0AInclude%20the%20following%20information%20(Inclua%20as%20seguintes%20informa%C3%A7%C3%B5es)%3A%0A%0AContact%20details%20with%20phone%20number%20(Informa%C3%A7%C3%B5es%20de%20contato%20com%20n%C3%BAmero%20de%20telefone)%3A%0APublisher%20name%20(Nome%20do%20editor)%3A%0AApp%20name%20(Nome%20do%20app)%3A%0AApple%20App%20ID%20or%20Mac%20App%20Store%20URL%20(ID%20Apple%20do%20App%20ou%20URL%20da%20Mac%20App%20Store)%3A%0AMarketing%20channels%20(Canais%20de%20marketing)%3A%0ACampaign%20spend%20or%20media%20value%20(Custo%20da%20campanha%20ou%20valor%20da%20m%C3%ADdia)%3A%20%0AImpressions%20expected%20(Impress%C3%B5es%20esperadas)%3A
+
+Interface Elements -
+https://developer.apple.com//tvos/human-interface-guidelines/ui-elements/
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=High%20resolution%20Apple%20product%20image%20request&body=Please%20provide%20your%20information%20in%20English.%0AForne%C3%A7a%20suas%20informa%C3%A7%C3%B5es%20em%20ingl%C3%AAs.%0A%0ASpecify%20the%20Apple%20product%20image%20needed%20and%20detail%20resolution%20requirements.%0AEspecifique%20a%20imagem%20de%20produto%20Apple%20necess%C3%A1ria%20e%20detalhe%20os%20requisitos%20de%20resolu%C3%A7%C3%A3o.%0A%0AAttach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20promoting.%0AEnvie%20um%20exemplo%20da%20sua%20comunica%C3%A7%C3%A3o%20e%20descreva%20brevemente%20o%20app%20que%20voc%C3%AA%20est%C3%A1%20promovendo.%0A%0AInclude%20the%20following%20information%20(Inclua%20as%20seguintes%20informa%C3%A7%C3%B5es)%3A%0A%0AContact%20details%20with%20phone%20number%20(Informa%C3%A7%C3%B5es%20de%20contato%20com%20n%C3%BAmero%20de%20telefone)%3A%0APublisher%20name%20(Nome%20do%20editor)%3A%0AApp%20name%20(Nome%20do%20app)%3A%0AApple%20App%20ID%20or%20Mac%20App%20Store%20URL%20(ID%20Apple%20do%20App%20ou%20URL%20da%20Mac%20App%20Store)%3A%0AMarketing%20channels%20(Canais%20de%20marketing)%3A%0ACampaign%20spend%20or%20media%20value%20(Custo%20da%20campanha%20ou%20valor%20da%20m%C3%ADdia)%3A%20%0AImpressions%20expected%20(Impress%C3%B5es%20esperadas)%3A
+
+Tab Bars -
+https://developer.apple.com/#tab-bars
+
+promoreview@apple.com -
+https://developer.apple.com/mailto:promoreview@apple.com?subject=Promotion%20review%20request&body=Please%20provide%20your%20information%20in%20English.%0AForne%C3%A7a%20suas%20informa%C3%A7%C3%B5es%20em%20ingl%C3%AAs.%0A%0AProvide%20a%20brief%20explanation%20of%20your%20contest%2C%20sweepstakes%20or%20giveaway%20promotional%20plan%2C%20detailing%20use%20of%20Apple%20products.%0AForne%C3%A7a%20uma%20breve%20explica%C3%A7%C3%A3o%20de%20seu%20concurso%2C%20sorteios%20ou%20plano%20promocional%20de%20brindes%2C%20detalhando%20o%20uso%20de%20produtos%20Apple.%0A%0AInclude%20the%20following%20information%20(Inclua%20as%20seguintes%20informa%C3%A7%C3%B5es)%3A%0A%0AContact%20details%20with%20phone%20number%20(Informa%C3%A7%C3%B5es%20de%20contato%20com%20n%C3%BAmero%20de%20telefone)%3A%0ACompany%20name%20(Nome%20da%20empresa)%3A%0AMarketing%20channels%20(Canais%20de%20marketing)%3A%0ACampaign%20spend%20or%20media%20value%20(Custo%20da%20campanha%20ou%20valor%20da%20m%C3%ADdia)%3A%20%0AImpressions%20expected%20(Impress%C3%B5es%20esperadas)%3A
+
+Tables and Collections -
+https://developer.apple.com/#tables-and-collections
+
+PÑÑÑÐºÐ¸Ð¸Ì -
+https://developer.apple.com//app-store/marketing/guidelines/mac/ru/
+
+Text and Search -
+https://developer.apple.com/#text-and-search
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=App%20marketing%20materials%20-%20%5B%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D1%8C%D1%82%D0%B5%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%5D&body=Please%20provide%20your%20information%20in%20English.%0A%D0%92%D1%81%D1%8F%20%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D1%8B%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D1%8B%20%D0%B1%D1%8B%D1%82%D1%8C%20%D0%BD%D0%B0%20%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC.%0A%0AAttach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20promoting.%0A%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%8C%D1%82%D0%B5%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%20%D0%B8%20%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%BE%D0%B5%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D0%B5%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.%20%20%0A%0AInclude%20the%20following%20information%20(%D0%9D%D0%B5%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B8%D0%BC%D0%BE%20%D1%82%D0%B0%D0%BA%D0%B6%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C%20%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D1%83%D1%8E%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8E)%3A%0A%0AContact%20details%20with%20phone%20number%20(%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%BD%D1%8B%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%2C%20%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B0%D1%8F%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B0)%3A%0APublisher%20name%20(%D0%B8%D0%BC%D1%8F%20%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D0%B0)%3A%0AApp%20name%20(%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)%3A%0AApple%20App%20ID%20or%20Mac%20App%20Store%20URL%20(%D0%BA%D0%BE%D0%B4%20Apple%20App%20ID%20%D0%B8%D0%BB%D0%B8%20URL-%D0%B0%D0%B4%D1%80%D0%B5%D1%81%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20Mac%20App%C2%A0Store)%3A%0AMarketing%20channels%20(%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)%3A%0ACampaign%20spend%20or%20media%20value%20(%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BD%D0%BE%D0%B9%20%D0%BA%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8)%3A%20%0AImpressions%20expected%20(%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%B5%D0%BC%D1%8B%D0%B9%20%D1%82%D0%B8%D1%80%D0%B0%D0%B6)%3A
+
+Navigation Bars -
+https://developer.apple.com/#navigation-bars
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=High%20resolution%20Apple%20product%20image%20request&body=Please%20provide%20your%20information%20in%20English.%0A%D0%92%D1%81%D1%8F%20%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D1%8B%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D1%8B%20%D0%B1%D1%8B%D1%82%D1%8C%20%D0%BD%D0%B0%20%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC.%0A%0ASpecify%20the%20Apple%20product%20image%20needed%20and%20detail%20resolution%20requirements.%0A%D0%A3%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%20%D0%BD%D0%B5%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B8%D0%BC%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%20%D0%B8%20%D1%82%D1%80%D0%B5%D0%B1%D1%83%D0%B5%D0%BC%D0%BE%D0%B5%20%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5.%0A%0AAttach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20promoting.%0A%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%8C%D1%82%D0%B5%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%20%D0%B8%20%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%BE%D0%B5%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D0%B5%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.%20%20%0A%0AInclude%20the%20following%20information%20(%D0%9D%D0%B5%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B8%D0%BC%D0%BE%20%D1%82%D0%B0%D0%BA%D0%B6%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C%20%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D1%83%D1%8E%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8E)%3A%0A%0AContact%20details%20with%20phone%20number%20(%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%BD%D1%8B%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%2C%20%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B0%D1%8F%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B0)%3A%0APublisher%20name%20(%D0%B8%D0%BC%D1%8F%20%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D0%B0)%3A%0AApp%20name%20(%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)%3A%0AApple%20App%20ID%20or%20Mac%20App%20Store%20URL%20(%D0%BA%D0%BE%D0%B4%20Apple%20App%20ID%20%D0%B8%D0%BB%D0%B8%20URL-%D0%B0%D0%B4%D1%80%D0%B5%D1%81%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20Mac%20App%C2%A0Store)%3A%0AMarketing%20channels%20(%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)%3A%0ACampaign%20spend%20or%20media%20value%20(%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BD%D0%BE%D0%B9%20%D0%BA%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8)%3A%20%0AImpressions%20expected%20(%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%B5%D0%BC%D1%8B%D0%B9%20%D1%82%D0%B8%D1%80%D0%B0%D0%B6)%3A
+
+Page Controls -
+https://developer.apple.com/#page-controls
+
+promoreview@apple.com -
+https://developer.apple.com/mailto:promoreview@apple.com?subject=Promotion%20review%20request&body=Please%20provide%20your%20information%20in%20English.%0A%D0%92%D1%81%D1%8F%20%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D1%8B%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D1%8B%20%D0%B1%D1%8B%D1%82%D1%8C%20%D0%BD%D0%B0%20%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC.%0A%0AProvide%20a%20brief%20explanation%20of%20your%20contest%2C%20sweepstakes%20or%20giveaway%20promotional%20plan%2C%20detailing%20use%20of%20Apple%20products.%0A%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%8C%D1%82%D0%B5%20%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%BE%D0%B5%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D0%BC%D0%BE%D0%B0%D0%BA%D1%86%D0%B8%D0%B8%20(%D0%BD%D0%B0%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%2C%20%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%2C%20%D0%B2%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B0%20%D0%B8%D0%BB%D0%B8%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B0%D1%87%D0%B0)%20%D0%B8%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%82%D0%BE%D0%B3%D0%BE%2C%20%D0%BA%D0%B0%D0%BA%20%D0%92%D1%8B%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D1%83%D0%B5%D1%82%D0%B5%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20Apple.%20%0A%0AInclude%20the%20following%20information%20(%D0%9D%D0%B5%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B8%D0%BC%D0%BE%20%D1%82%D0%B0%D0%BA%D0%B6%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C%20%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D1%83%D1%8E%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8E)%3A%0A%0AContact%20details%20with%20phone%20number%20(%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%BD%D1%8B%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%2C%20%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B0%D1%8F%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B0)%3A%0ACompany%20name%20(%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8)%3A%0AMarketing%20channels%20(%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)%3A%0ACampaign%20spend%20or%20media%20value%20(%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BD%D0%BE%D0%B9%20%D0%BA%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8)%3A%20%0AImpressions%20expected%20(%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%B5%D0%BC%D1%8B%D0%B9%20%D1%82%D0%B8%D1%80%D0%B0%D0%B6)%3A
+
+Progress Indicators -
+https://developer.apple.com/#progress-indicators
+
+TuÌrkcÌ§e -
+https://developer.apple.com//app-store/marketing/guidelines/mac/tr/
+
+Segmented Controls -
+https://developer.apple.com/#segmented-controls
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=App%20marketing%20materials%20-%20%5BUygulama%20Ad%C4%B1%20Girin%5D&body=Please%20provide%20your%20information%20in%20English.%0AL%C3%BCtfen%20yaz%C4%B1%C5%9Fmalar%C4%B1zda%20%C4%B0ngilizce%20kullan%C4%B1n.%0A%0AAttach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20promoting.%0ADuyurunuzun%20bir%20%C3%B6rne%C4%9Fini%20ekleyin%20ve%20tan%C4%B1t%C4%B1m%C4%B1n%C4%B1%20yapt%C4%B1%C4%9F%C4%B1n%C4%B1z%20uygulamay%C4%B1%20k%C4%B1saca%20a%C3%A7%C4%B1klay%C4%B1n.%0A%0AInclude%20the%20following%20information%20(%C5%9Eu%20bilgileri%20ekleyin)%3A%0A%0AContact%20details%20with%20phone%20number%20(Telefon%20numaras%C4%B1%20i%C3%A7eren%20ileti%C5%9Fim%20bilgileri)%3A%0APublisher%20name%20(Yay%C4%B1nevi%20ad%C4%B1)%3A%0AApp%20name%20(Uygulaman%C4%B1n%20ad%C4%B1)%3A%0AApple%20App%20ID%20or%20Mac%20App%20Store%20URL%20(Apple%20App%20Kimli%C4%9Fi%20veya%20Mac%20App%20Store%20URL%27si)%3A%0AMarketing%20channels%20(Pazarlama%20kanallar%C4%B1)%3A%0ACampaign%20spend%20or%20media%20value%20(Kampanya%20b%C3%BCt%C3%A7esi%20veya%20medya%20de%C4%9Feri)%3A%20%0AImpressions%20expected%20(Beklenen%20izlenimler)%3A
+
+Alerts -
+https://developer.apple.com/#alerts
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=High%20resolution%20Apple%20product%20image%20request&body=Please%20provide%20your%20information%20in%20English.%0AL%C3%BCtfen%20yaz%C4%B1%C5%9Fmalar%C4%B1zda%20%C4%B0ngilizce%20kullan%C4%B1n.%0A%0ASpecify%20the%20Apple%20product%20image%20needed%20and%20detail%20resolution%20requirements.%0AGereken%20Apple%20%C3%BCr%C3%BCn%20g%C3%B6rselini%20belirtin%20ve%20gereken%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BC%C4%9F%C3%BC%20belirtin.%0A%0AAttach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20promoting.%0ADuyurunuzun%20bir%20%C3%B6rne%C4%9Fini%20ekleyin%20ve%20tan%C4%B1t%C4%B1m%C4%B1n%C4%B1%20yapt%C4%B1%C4%9F%C4%B1n%C4%B1z%20uygulamay%C4%B1%20k%C4%B1saca%20a%C3%A7%C4%B1klay%C4%B1n.%0A%0AInclude%20the%20following%20information%20(%C5%9Eu%20bilgileri%20ekleyin)%3A%0A%0AContact%20details%20with%20phone%20number%20(Telefon%20numaras%C4%B1%20i%C3%A7eren%20ileti%C5%9Fim%20bilgileri)%3A%0APublisher%20name%20(Yay%C4%B1nevi%20ad%C4%B1)%3A%0AApp%20name%20(Uygulaman%C4%B1n%20ad%C4%B1)%3A%0AApple%20App%20ID%20or%20Mac%20App%20Store%20URL%20(Apple%20App%20Kimli%C4%9Fi%20veya%20Mac%20App%20Store%20URL%27si)%3A%0AMarketing%20channels%20(Pazarlama%20kanallar%C4%B1)%3A%0ACampaign%20spend%20or%20media%20value%20(Kampanya%20b%C3%BCt%C3%A7esi%20veya%20medya%20de%C4%9Feri)%3A%20%0AImpressions%20expected%20(Beklenen%20izlenimler)%3A
+
+Resources -
+https://developer.apple.com//tvos/human-interface-guidelines/resources/
+
+promoreview@apple.com -
+https://developer.apple.com/mailto:promoreview@apple.com?subject=Promotion%20review%20request&body=Please%20provide%20your%20information%20in%20English.%0AL%C3%BCtfen%20yaz%C4%B1%C5%9Fmalar%C4%B1zda%20%C4%B0ngilizce%20kullan%C4%B1n.%0A%0AProvide%20a%20brief%20explanation%20of%20your%20contest%2C%20sweepstakes%20or%20giveaway%20promotional%20plan%2C%20detailing%20use%20of%20Apple%20products.%0AApple%20%C3%BCr%C3%BCnlerinin%20kullan%C4%B1m%C4%B1%20hakk%C4%B1nda%20bilgi%20vererek%20yar%C4%B1%C5%9Fma%2C%20%C3%A7ekili%C5%9F%20veya%20hediye%20tan%C4%B1t%C4%B1m%20plan%C4%B1n%C4%B1z%C4%B1n%20k%C4%B1sa%20bir%20a%C3%A7%C4%B1klamas%C4%B1n%C4%B1%20girin.%0A%0AInclude%20the%20following%20information%20(%C5%9Eu%20bilgileri%20ekleyin)%3A%0A%0AContact%20details%20with%20phone%20number%20(Telefon%20numaras%C4%B1%20i%C3%A7eren%20ileti%C5%9Fim%20bilgileri)%3A%0ACompany%20name%20(%C5%9Eirket%20ad%C4%B1)%3A%0AMarketing%20channels%20(Pazarlama%20kanallar%C4%B1)%3A%0ACampaign%20spend%20or%20media%20value%20(Kampanya%20b%C3%BCt%C3%A7esi%20veya%20medya%20de%C4%9Feri)%3A%20%0AImpressions%20expected%20(Beklenen%20izlenimler)%3A
+
+Icon and Image Templates -
+https://developer.apple.com/#icon-and-image-templates
+
+ç®ä½ä¸­æ -
+https://developer.apple.com//app-store/marketing/guidelines/mac/cn/
+
+Parallax Tools -
+https://developer.apple.com/#parallax-tools
+
+Typeface -
+https://developer.apple.com/#typeface
+
+Apple Developer -
+https://developer.apple.com//cn/
+
+Xcode Projects -
+https://developer.apple.com/#xcode-projects
+
+ææ¯ -
+https://developer.apple.com//platforms/cn/
+
+èµæº -
+https://developer.apple.com//resources/cn/
+
+è®¡å -
+https://developer.apple.com//programs/cn/
+
+app icons -
+https://developer.apple.com//tvos/human-interface-guidelines/icons-and-images/#app-icon
+
+Resources -
+https://developer.apple.com//tvos/human-interface-guidelines/resources/#icon-and-image-templates
+
+æ¯æ -
+https://developer.apple.com//support/cn/
+
+å¼å -
+https://developer.apple.com//support/development/cn/
+
+åå -
+https://developer.apple.com//support/distribution/cn/
+
+layered images -
+https://developer.apple.com//tvos/human-interface-guidelines/icons-and-images/#layered-images
+
+Accessibility Programming Guide for iOS -
+https://developer.apple.com//library/prerelease/tvos/documentation/UserExperience/Conceptual/iPhoneAccessibility/Introduction/Introduction.html
+
+ä¼åèµæ ¼ -
+https://developer.apple.com//support/membership/cn/
+
+Next -
+https://developer.apple.com/../Accessibility_on_iPhone/Accessibility_on_iPhone.html
+
+Understanding Accessibility on iOS -
+https://developer.apple.com/../Accessibility_on_iPhone/Accessibility_on_iPhone.html#//apple_ref/doc/uid/TP40008785-CH100-SW1
+
+Making Your iOS App Accessible -
+https://developer.apple.com/../Making_Application_Accessible/Making_Application_Accessible.html#//apple_ref/doc/uid/TP40008785-CH102-SW5
+
+Game Center Programming Guide -
+https://developer.apple.com//library/tvos/documentation/NetworkingInternet/Conceptual/GameKit_Guide/Introduction/Introduction.html
+
+Xcode -
+https://developer.apple.com//cn/xcode/
+
+Next -
+https://developer.apple.com/../GameCenterOverview/GameCenterOverview.html
+
+Xcode IDE -
+https://developer.apple.com//cn/xcode/ide/
+
+Developing a Game Center-Aware Game -
+https://developer.apple.com/../GameCenterOverview/GameCenterOverview.html#//apple_ref/doc/uid/TP40008304-CH5-SW7
+
+Interface Builder -
+https://developer.apple.com//cn/xcode/interface-builder/
+
+GKGameCenterViewController -
+https://developer.apple.com/../../../../GameKit/Reference/GKGameCenterViewController_Ref/index.html#//apple_ref/occ/cl/GKGameCenterViewController
+
+ç¹æ§ -
+https://developer.apple.com//cn/xcode/features/
+
+GKNotificationBanner -
+https://developer.apple.com/../../../../GameKit/Reference/GKNotificationBanner_Ref/index.html#//apple_ref/occ/cl/GKNotificationBanner
+
+Displaying Game Center User Interface Elements -
+https://developer.apple.com/../DisplayingGameCenterUserInterfaceElements/DisplayingGameCenterUserInterfaceElements.html#//apple_ref/doc/uid/TP40008304-CH16-SW1
+
+ä¸è½½ -
+https://developer.apple.com//cn/xcode/downloads/
+
+Working with Players in Game Center -
+https://developer.apple.com/../Users/Users.html#//apple_ref/doc/uid/TP40008304-CH8-SW6
+
+Leaderboards, Achievements, and Challenges -
+https://developer.apple.com/../Achievements/Achievements.html#//apple_ref/doc/uid/TP40008304-CH7-SW13
+
+è®ºå -
+https://developer.apple.com//devforums/
+
+Matchmaking Overview -
+https://developer.apple.com/../MatchmakingwithGameCenter/MatchmakingwithGameCenter.html#//apple_ref/doc/uid/TP40008304-CH12-SW2
+
+Real-Time Matches -
+https://developer.apple.com/../Matchmaking/Matchmaking.html#//apple_ref/doc/uid/TP40008304-CH9-SW1
+
+Hosted Matches -
+https://developer.apple.com/../CreatingaHostedMatch/CreatingaHostedMatch.html#//apple_ref/doc/uid/TP40008304-CH13-SW1
+
+Enterprise Program -
+https://developer.apple.com//programs/enterprise/cn/
+
+Turn-Based Matches -
+https://developer.apple.com/../ImplementingaTurn-BasedMatch/ImplementingaTurn-BasedMatch.html#//apple_ref/doc/uid/TP40008304-CH15-SW1
+
+delegation -
+https://developer.apple.com/../../../../General/Conceptual/DevPedia-CocoaCore/Delegation.html#//apple_ref/doc/uid/TP40008195-CH14
+
+è¿ä½æ¹å¼ -
+https://developer.apple.com//programs/enterprise/how-it-works/cn/
+
+block objects -
+https://developer.apple.com/../../../../General/Conceptual/DevPedia-CocoaCore/Block.html#//apple_ref/doc/uid/TP40008195-CH3
+
+æ³¨å -
+https://developer.apple.com//programs/enterprise/enroll/cn/
+
+GameKit Framework Reference -
+https://developer.apple.com/../../../../GameKit/Reference/GameKit_Collection/index.html#//apple_ref/doc/uid/TP40008303
+
+App Distribution Quick Start -
+https://developer.apple.com/../../../../IDEs/Conceptual/AppStoreDistributionTutorial/Introduction/Introduction.html#//apple_ref/doc/uid/TP40013839
+
+äºè§£è¯¦æ -
+https://developer.apple.com//support/d-u-n-s/cn/
+
+App Programming Guide for tvOS -
+https://developer.apple.com//library/tvos/documentation/General/Conceptual/AppleTV_PG/index.html
+
+ä¸ªäºº -
+https://developer.apple.com//cn/programs/enroll/
+
+tvOS Developer Library
+ 		 -
+https://developer.apple.com/../../../../navigation/
+
+èç³» Apple Developer Support -
+https://developer.apple.com//cn/contact/
+
+Developer -
+https://developer.apple.com/https://developer.apple.com
+
+About Apple TV -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015241-CH12-SW1
+
+ææ¯ -
+https://developer.apple.com//technologies/cn/
+
+Building Apple TV Apps -
+https://developer.apple.com/YourFirstAppleTVApp.html#//apple_ref/doc/uid/TP40015241-CH3-SW1
+
+Apple Developer Program Support -
+https://developer.apple.com//cn/contact/submit.php
+
+Controlling the User Interface with the Apple TV Remote -
+https://developer.apple.com/WorkingwiththeAppleTVRemote.html#//apple_ref/doc/uid/TP40015241-CH5-SW4
+
+Detecting Gestures and Button Presses -
+https://developer.apple.com/DetectingButtonPressesandGestures.html#//apple_ref/doc/uid/TP40015241-CH16-SW1
+
+Designing the Keyboard Input Experience -
+https://developer.apple.com/CreatingaGreatTextInputExperience.html#//apple_ref/doc/uid/TP40015241-CH17-SW1
+
+Working with Game Controllers -
+https://developer.apple.com/WorkingwithGameControllers.html#//apple_ref/doc/uid/TP40015241-CH18-SW1
+
+ç®¡ç Apple ID -
+https://developer.apple.com/https://appleid.apple.com/cn/
+
+Creating Parallax Artwork -
+https://developer.apple.com/CreatingParallaxArtwork.html#//apple_ref/doc/uid/TP40015241-CH19-SW1
+
+éç½®å¯ç  -
+https://developer.apple.com/https://iforgot.apple.com/cgi-bin/iforgot.cgi?language=CN-ZH&returnURL=https://appleid.apple.com/cgi-bin/WebObjects/MyAppleId.woa&app_id=93&app_type=ext
+
+Managing Resources -
+https://developer.apple.com/iCloudStorage.html#//apple_ref/doc/uid/TP40015241-CH10-SW1
+
+æ¥æ¾ Apple ID -
+https://developer.apple.com/https://iforgot.apple.com/cgi-bin/findYourAppleID.cgi?language=CN-ZH&returnURL=https://appleid.apple.com/cgi-bin/WebObjects/MyAppleId.woa&app_id=93&app_type=ext
+
+On-Demand Resources -
+https://developer.apple.com/OnDemandResources.html#//apple_ref/doc/uid/TP40015241-CH9-SW1
+
+App Store Resource Center -
+https://developer.apple.com//cn/appstore/
+
+Revision History -
+https://developer.apple.com/RevisionHistory.html#//apple_ref/doc/uid/TP40015241-CH99-SW1
+
+Apple TV Hardware -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015241-CH12-SW2
+
+App å®¡æ ¸é®é¢åç¶æ -
+https://developer.apple.com//contact/app-store/
+
+Traditional Apps -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015241-CH12-SW7
+
+Client-Server Apps -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015241-CH12-SW4
+
+Top Shelf  -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015241-CH12-SW8
+
+Focus and Parallax Images -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015241-CH12-SW10
+
+å å¿« App å®¡æ ¸ -
+https://developer.apple.com//contact/app-store/?topic=expedite
+
+New tvOS Frameworks -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015241-CH12-SW9
+
+å°± App é­ææåµæåºç³è¯ -
+https://developer.apple.com//contact/app-store/?topic=appeal
+
+Inherited iOS Frameworks -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015241-CH12-SW11
+
+New User Interface Challenges -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015241-CH12-SW3
+
+Local Storage for Your App Is Limited -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015241-CH12-SW5
+
+Target Apple TV in Your Apps -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015241-CH12-SW12
+
+è´¢å¡åéå®æ¥å -
+https://developer.apple.com/https://www.apple.com/itunes/go/itunesconnect/contactus/
+
+Apple TV Human Interface Guidelines -
+https://developer.apple.com/https://developer.apple.com/tvos/human-interface-guidelines/
+
+App è¥éåå¹¿å -
+https://developer.apple.com/mailto:appstoremarketing@apple.com
+
+Supported Capabilities -
+https://developer.apple.com/../../../IDEs/Conceptual/AppDistributionGuide/SupportedCapabilities/SupportedCapabilities.html#//apple_ref/doc/uid/TP40012582-CH38
+
+App Store è¥éåå¹¿åæå -
+https://developer.apple.com//app-store/marketing/guidelines/cn/
+
+App Distribution Guide -
+https://developer.apple.com/../../../IDEs/Conceptual/AppDistributionGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40012582
+
+Figure 1-1 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015241-CH12-SW6
+
+è¿ä¸æ­¥äºè§£ MFi è®¡å -
+https://developer.apple.com//cn/programs/mfi/
+
+Apple TV Markup Language Reference -
+https://developer.apple.com/../../../LanguagesUtilities/Conceptual/ATV_Template_Guide/index.html#//apple_ref/doc/uid/TP40015064
+
+About HTTP Live Streaming -
+https://developer.apple.com/../../../../referencelibrary/GettingStarted/AboutHTTPLiveStreaming/about/about.html#//apple_ref/doc/uid/TP40013978
+
+HLS Authoring Specification for Apple TV -
+https://developer.apple.com/https://developer.apple.com/services-account/download?path=/Documentation/HLS_Authoring_Specification_for_Apple_TV/HLS_Authoring_Specification_for_Apple_TV.pdf
+
+ç«å³ç³è¯· -
+https://developer.apple.com/https://mfi.apple.com/enroll
+
+UIImageView -
+https://developer.apple.com/../../../UIKit/Reference/UIImageView_Class/index.html#//apple_ref/occ/cl/UIImageView
+
+Deutsch -
+https://developer.apple.com//app-store/marketing/guidelines/de/
+
+TVJS Framework Reference -
+https://developer.apple.com/../../../TVMLJS/Reference/TVJSFrameworkReference/index.html#//apple_ref/doc/uid/TP40016076
+
+TVMLKit Framework Reference -
+https://developer.apple.com/../../../TVMLKit/Reference/TVMLKit_Collection/index.html#//apple_ref/doc/uid/TP40016429
+
+marcomreview@apple.com -
+https://developer.apple.com/mailto:marcomreview@apple.com?subject=App%20marketing%20materials%20-%20%5BInsert%20App%20Name%5D&body=Attach%20an%20example%20of%20your%20communication%20and%20briefly%20describe%20the%20app%20you%20are%20vermarkten%20moechtenpromoting.%20%20%0A%0AInclude%20the%20following%20information%3A%0A%0AContact%20details%20with%20phone%20number%3A%0APublisher%20name%3A%0AApp%20name%3A%0AApple%20App%20ID%20or%20App%20Store%20URL%3A%0AMarketing%20channels%3A%0ACampaign%20spend%20or%20media%20value%3A%20%0AImpressions%20expected%3A
+
+TVServices Framework Reference -
+https://developer.apple.com/../../../TVServices/Reference/TVServices_Ref/index.html#//apple_ref/doc/uid/TP40016412
+
+NSUserDefaults -
+https://developer.apple.com/../../../Cocoa/Reference/Foundation/Classes/NSUserDefaults_Class/index.html#//apple_ref/occ/cl/NSUserDefaults
+
+Español -
+https://developer.apple.com//app-store/marketing/guidelines/es/
+
+On-Demand Resources Guide -
+https://developer.apple.com/../../../FileManagement/Conceptual/On_Demand_Resources_Guide/index.html#//apple_ref/doc/uid/TP40015083
+
+Design Principles -
+https://developer.apple.com//tvos/human-interface-guidelines/#design-principles
+
+FrancÌ§ais -
+https://developer.apple.com//app-store/marketing/guidelines/fr/
+
+Top Shelf -
+https://developer.apple.com//tvos/human-interface-guidelines/icons-and-images/#top-shelf
+
+Italiano -
+https://developer.apple.com//app-store/marketing/guidelines/it/
+
+Apps -
+https://developer.apple.com//tvos/human-interface-guidelines/#apps
+
+Focus and Selection -
+https://developer.apple.com//tvos/human-interface-guidelines/navigation-and-focus/#focus-and-selection
+
+PortugueÌs Brasil -
+https://developer.apple.com//app-store/marketing/guidelines/br/
+
+Focus and Parallax -
+https://developer.apple.com//tvos/human-interface-guidelines/#focus-and-parallax
+
+Home Screen -
+https://developer.apple.com//tvos/human-interface-guidelines/#home-screen
+
+PÑÑÑÐºÐ¸Ð¸Ì -
+https://developer.apple.com//app-store/marketing/guidelines/ru/
+
+Top Shelf -
+https://developer.apple.com//tvos/human-interface-guidelines/#top-shelf
+
+Remote -
+https://developer.apple.com//tvos/human-interface-guidelines/remote-and-interaction/#remote
+
+TuÌrkcÌ§e -
+https://developer.apple.com//app-store/marketing/guidelines/tr/
+
+Working with Game Controllers -
+https://developer.apple.com//library/tvos/documentation/General/Conceptual/AppleTV_PG/WorkingwithGameControllers.html
+
+ç¹é«ä¸­æ -
+https://developer.apple.com//app-store/marketing/guidelines/zh-tw/
+
+About Apple TV -
+https://developer.apple.com/index.html#//apple_ref/doc/uid/TP40015241-CH12-SW1
+
+Working with Game Controllers -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015241-CH18-SW1
+
+æ¥æ¬èª -
+https://developer.apple.com//app-store/marketing/guidelines/jp/
+
+Requirements for Games That Support Game Controllers -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015241-CH18-SW2
+
+Controller Limits -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015241-CH18-DontLinkElementID_1
+
+Using the Apple TV Remote as a Game Controller -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015241-CH18-SW3
+
+Determining the Destination of Controller Input -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015241-CH18-SW4
+
+Game Controller Programming Guide -
+https://developer.apple.com/../../../ServicesDiscovery/Conceptual/GameControllerPG/Introduction/Introduction.html#//apple_ref/doc/uid/TP40013276
+
+GCMicroGamepad -
+https://developer.apple.com/../../../GameController/Reference/GCMicroGamepad_Ref/index.html#//apple_ref/occ/cl/GCMicroGamepad
+
+GCEventViewController -
+https://developer.apple.com/../../../GameController/Reference/GCEventViewController_Ref/index.html#//apple_ref/occ/cl/GCEventViewController
+
+GCController -
+https://developer.apple.com/../../../GameController/Reference/GCController_Ref/index.html#//apple_ref/occ/cl/GCController
+
+GCMotion -
+https://developer.apple.com/../../../GameController/Reference/GCMotion_Ref/index.html#//apple_ref/occ/cl/GCMotion
+
+controllerUserInteractionEnabled -
+https://developer.apple.com/../../../GameController/Reference/GCEventViewController_Ref/index.html#//apple_ref/occ/instp/GCEventViewController/controllerUserInteractionEnabled
+
+pressesBegan:withEvent: -
+https://developer.apple.com/../../../UIKit/Reference/UIResponder_Class/index.html#//apple_ref/occ/instm/UIResponder/pressesBegan:withEvent:
+
+Game Controller Programming Guide -
+https://developer.apple.com//library/tvos/documentation/ServicesDiscovery/Conceptual/GameControllerPG/Introduction/Introduction.html
+
+Next -
+https://developer.apple.com/../IncorporatingControllersintoYourDesign/IncorporatingControllersintoYourDesign.html
+
+Incorporating Controllers into Your Game Design -
+https://developer.apple.com/../IncorporatingControllersintoYourDesign/IncorporatingControllersintoYourDesign.html#//apple_ref/doc/uid/TP40013276-CH4-SW4
+
+Discovering and Connecting to Controllers -
+https://developer.apple.com/../DiscoveringControllers/DiscoveringControllers.html#//apple_ref/doc/uid/TP40013276-CH2-SW1
+
+Working with Controller Elements -
+https://developer.apple.com/../ReadingControllerInputs/ReadingControllerInputs.html#//apple_ref/doc/uid/TP40013276-CH3-SW1
+
+Game Controller Framework Reference -
+https://developer.apple.com/../../../../GameController/Reference/GameController_RefColl/index.html#//apple_ref/doc/uid/TP40013201
+
+GameplayKit Programming Guide -
+https://developer.apple.com//library/tvos/documentation/General/Conceptual/GameplayKit_Guide/index.html
+
+Getting Started -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015172-CH1-SW1
+
+Designing Game Architecture -
+https://developer.apple.com/RandomSources.html#//apple_ref/doc/uid/TP40015172-CH9-SW1
+
+Entities and Components -
+https://developer.apple.com/EntityComponent.html#//apple_ref/doc/uid/TP40015172-CH6-SW1
+
+State Machines -
+https://developer.apple.com/StateMachine.html#//apple_ref/doc/uid/TP40015172-CH7-SW1
+
+Building Great Gameplay -
+https://developer.apple.com/Minmax.html#//apple_ref/doc/uid/TP40015172-CH2-SW1
+
+Pathfinding -
+https://developer.apple.com/Pathfinding.html#//apple_ref/doc/uid/TP40015172-CH3-SW1
+
+Agents, Goals, and Behaviors -
+https://developer.apple.com/Agent.html#//apple_ref/doc/uid/TP40015172-CH8-SW1
+
+Rule Systems -
+https://developer.apple.com/RuleSystems.html#//apple_ref/doc/uid/TP40015172-CH10-SW1
+
+Revision History -
+https://developer.apple.com/RevisionHistory.html#//apple_ref/doc/uid/TP40015172-CH99-SW1
+
+GameplayKit Features -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015172-CH1-SW2
+
+Examples -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015172-CH1-SW3
+
+See Also -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015172-CH1-SW5
+
+Maze: Getting Started with GameplayKit -
+https://developer.apple.com/https://developer.apple.com/sample-code/wwdc/2015/downloads/Maze.zip
+
+GKMinmaxStrategist -
+https://developer.apple.com/../../../GameplayKit/Reference/GKMinmaxStrategist_Class/index.html#//apple_ref/occ/cl/GKMinmaxStrategist
+
+GKAgent -
+https://developer.apple.com/../../../GameplayKit/Reference/GKAgent_Class/index.html#//apple_ref/occ/cl/GKAgent
+
+DemoBots: Building a Cross Platform Game with SpriteKit and GameplayKit -
+https://developer.apple.com/../../../../samplecode/DemoBots/Introduction/Intro.html#//apple_ref/doc/uid/TP40015179
+
+SpriteKit Programming Guide -
+https://developer.apple.com/../../../GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html#//apple_ref/doc/uid/TP40013043
+
+SpriteKit Framework Reference -
+https://developer.apple.com/../../../SpriteKit/Reference/SpriteKitFramework_Ref/index.html#//apple_ref/doc/uid/TP40013041
+
+SceneKit Framework Reference -
+https://developer.apple.com/../../../SceneKit/Reference/SceneKit_Framework/index.html#//apple_ref/doc/uid/TP40012283
+
+App Programming Guide for tvOS -
+https://developer.apple.com/../AppleTV_PG/index.html#//apple_ref/doc/uid/TP40015241
+
+Xcode Overview -
+https://developer.apple.com/../../../ToolsLanguages/Conceptual/Xcode_Overview/index.html#//apple_ref/doc/uid/TP40010215
+
+Gestures -
+https://developer.apple.com//tvos/human-interface-guidelines/remote-and-interaction/#gestures
+
+Game Controllers -
+https://developer.apple.com//tvos/human-interface-guidelines/remote-and-interaction/#game-controllers
+
+Buttons -
+https://developer.apple.com//tvos/human-interface-guidelines/remote-and-interaction/#buttons
+
+Navigation -
+https://developer.apple.com//tvos/human-interface-guidelines/navigation-and-focus/#navigation
+
+Image Size and Resolution -
+https://developer.apple.com//tvos/human-interface-guidelines/icons-and-images/#image-size-and-resolution
+
+Game Center Images -
+https://developer.apple.com//tvos/human-interface-guidelines/icons-and-images/#game-center-images
+
+Launch Image -
+https://developer.apple.com//tvos/human-interface-guidelines/icons-and-images/#launch-image
+
+Layout -
+https://developer.apple.com//tvos/human-interface-guidelines/visual-design/#layout
+
+Layout Templates -
+https://developer.apple.com/#layout-templates
+
+UICollectionViewFlowLayout Class Reference -
+https://developer.apple.com//library/tvos/documentation/UIKit/Reference/UICollectionViewFlowLayout_class/index.html
+
+UIKit Framework Reference -
+https://developer.apple.com/../UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955
+
+
+              Tasks
+             -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40012182-CH1-SW10
+
+
+                  Configuring the Item Spacing
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40012182-CH1-SW2
+
+
+                  Configuring the Supplementary Views
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40012182-CH1-SW11
+
+
+              Constants
+             -
+https://developer.apple.com/#//apple_ref/c/tdef/UICollectionViewScrollDirection
+
+
+                  Flow Layout Supplementary Views
+                 -
+https://developer.apple.com/#//apple_ref/doc/constant_group/Flow_Layout_Supplementary_Views
+
+Document Revision History -
+https://developer.apple.com/RevisionHistory.html#//apple_ref/doc/uid/TP40012182-CH99-SW1
+
+
+                  scrollDirection
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UICollectionViewFlowLayout/scrollDirection
+
+
+                  minimumLineSpacing
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UICollectionViewFlowLayout/minimumLineSpacing
+
+
+                  minimumInteritemSpacing
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UICollectionViewFlowLayout/minimumInteritemSpacing
+
+
+                  itemSize
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UICollectionViewFlowLayout/itemSize
+
+
+                  estimatedItemSize
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UICollectionViewFlowLayout/estimatedItemSize
+
+
+                  sectionInset
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UICollectionViewFlowLayout/sectionInset
+
+
+                  headerReferenceSize
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UICollectionViewFlowLayout/headerReferenceSize
+
+
+                  footerReferenceSize
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UICollectionViewFlowLayout/footerReferenceSize
+
+
+                  UICollectionViewScrollDirectionVertical
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UICollectionViewScrollDirectionVertical
+
+
+                  UICollectionViewScrollDirectionHorizontal
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UICollectionViewScrollDirectionHorizontal
+
+
+                  UICollectionElementKindSectionHeader
+                 -
+https://developer.apple.com/#//apple_ref/c/data/UICollectionElementKindSectionHeader
+
+
+                  UICollectionElementKindSectionFooter
+                 -
+https://developer.apple.com/#//apple_ref/c/data/UICollectionElementKindSectionFooter
+
+NSObject -
+https://developer.apple.com/../../../Cocoa/Reference/Foundation/Classes/NSObject_Class/index.html#//apple_ref/swift/cl/c:objc(cs)NSObject
+
+UICollectionViewLayout -
+https://developer.apple.com/../UICollectionViewLayout_class/index.html#//apple_ref/swift/cl/c:objc(cs)UICollectionViewLayout
+
+NSObject -
+https://developer.apple.com/../../../Cocoa/Reference/Foundation/Classes/NSObject_Class/index.html#//apple_ref/occ/cl/NSObject
+
+UICollectionViewLayout -
+https://developer.apple.com/../UICollectionViewLayout_class/index.html#//apple_ref/occ/cl/UICollectionViewLayout
+
+CVarArgType -
+https://developer.apple.com/../../../Swift/Reference/Swift_CVarArgType_Protocol/index.html#//apple_ref/swift/intf/s:PSs11CVarArgType
+
+CustomStringConvertible -
+https://developer.apple.com/../../../Swift/Reference/Swift_CustomStringConvertible_Protocol/index.html#//apple_ref/swift/intf/s:PSs23CustomStringConvertible
+
+Equatable -
+https://developer.apple.com/../../../Swift/Reference/Swift_Equatable_Protocol/index.html#//apple_ref/swift/intf/s:PSs9Equatable
+
+Hashable -
+https://developer.apple.com/../../../Swift/Reference/Swift_Hashable_Protocol/index.html#//apple_ref/swift/intf/s:PSs8Hashable
+
+NSCoding -
+https://developer.apple.com/../../../Cocoa/Reference/Foundation/Protocols/NSCoding_Protocol/index.html#//apple_ref/swift/intf/c:objc(pl)NSCoding
+
+NSCoding -
+https://developer.apple.com/../../../Cocoa/Reference/Foundation/Protocols/NSCoding_Protocol/index.html#//apple_ref/occ/intf/NSCoding
+
+UICollectionViewDelegateFlowLayout -
+https://developer.apple.com/../UICollectionViewDelegateFlowLayout_protocol/index.html#//apple_ref/occ/intf/UICollectionViewDelegateFlowLayout
+
+UICollectionViewScrollDirection -
+https://developer.apple.com/#//apple_ref/swift/enum/c:@E@UICollectionViewScrollDirection
+
+collectionView:layout:minimumLineSpacingForSectionAtIndex: -
+https://developer.apple.com/../UICollectionViewDelegateFlowLayout_protocol/index.html#//apple_ref/occ/intfm/UICollectionViewDelegateFlowLayout/collectionView:layout:minimumLineSpacingForSectionAtIndex:
+
+collectionView:layout:minimumInteritemSpacingForSectionAtIndex: -
+https://developer.apple.com/../UICollectionViewDelegateFlowLayout_protocol/index.html#//apple_ref/occ/intfm/UICollectionViewDelegateFlowLayout/collectionView:layout:minimumInteritemSpacingForSectionAtIndex:
+
+CGSize -
+https://developer.apple.com/../../../GraphicsImaging/Reference/CGGeometry/index.html#//apple_ref/swift/struct/c:@S@CGSize
+
+collectionView:layout:sizeForItemAtIndexPath: -
+https://developer.apple.com/../UICollectionViewDelegateFlowLayout_protocol/index.html#//apple_ref/occ/intfm/UICollectionViewDelegateFlowLayout/collectionView:layout:sizeForItemAtIndexPath:
+
+CGSizeZero -
+https://developer.apple.com/../../../GraphicsImaging/Reference/CGGeometry/index.html#//apple_ref/c/data/CGSizeZero
+
+preferredLayoutAttributesFittingAttributes: -
+https://developer.apple.com/../UICollectionReusableView_class/index.html#//apple_ref/occ/instm/UICollectionReusableView/preferredLayoutAttributesFittingAttributes:
+
+UIEdgeInsets -
+https://developer.apple.com/../UIKitDataTypesReference/index.html#//apple_ref/swift/struct/c:@S@UIEdgeInsets
+
+collectionView:layout:insetForSectionAtIndex: -
+https://developer.apple.com/../UICollectionViewDelegateFlowLayout_protocol/index.html#//apple_ref/occ/intfm/UICollectionViewDelegateFlowLayout/collectionView:layout:insetForSectionAtIndex:
+
+collectionView:layout:referenceSizeForHeaderInSection: -
+https://developer.apple.com/../UICollectionViewDelegateFlowLayout_protocol/index.html#//apple_ref/occ/intfm/UICollectionViewDelegateFlowLayout/collectionView:layout:referenceSizeForHeaderInSection:
+
+collectionView:layout:referenceSizeForFooterInSection: -
+https://developer.apple.com/../UICollectionViewDelegateFlowLayout_protocol/index.html#//apple_ref/occ/intfm/UICollectionViewDelegateFlowLayout/collectionView:layout:referenceSizeForFooterInSection:
+
+Int -
+https://developer.apple.com/../../../Swift/Reference/Swift_Int_Structure/index.html#//apple_ref/swift/struct/s:Si
+
+String -
+https://developer.apple.com/../../../Swift/Reference/Swift_String_Structure/index.html#//apple_ref/swift/struct/s:SS
+
+Apple TV Markup Language Reference -
+https://developer.apple.com//library/tvos/documentation/LanguagesUtilities/Conceptual/ATV_Template_Guide/index.html
+
+Apple TVML -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40015064-CH41-SW1
+
+Templates -
+https://developer.apple.com/TextboxTemplate.html#//apple_ref/doc/uid/TP40015064-CH2-SW8
+
+catalogTemplate -
+https://developer.apple.com/CatalogTemplate.html#//apple_ref/doc/uid/TP40015064-CH35-SW2
+
+compilationTemplate -
+https://developer.apple.com/CompilationTemplate.html#//apple_ref/doc/uid/TP40015064-CH36-SW2
+
+descriptiveAlertTemplate -
+https://developer.apple.com/DescriptiveAlertTemplate.html#//apple_ref/doc/uid/TP40015064-CH34-SW2
+
+divTemplate -
+https://developer.apple.com/DivTemplate.html#//apple_ref/doc/uid/TP40015064-CH28-SW1
+
+formTemplate -
+https://developer.apple.com/FormTemplate.html#//apple_ref/doc/uid/TP40015064-CH29-SW1
+
+listTemplate -
+https://developer.apple.com/ListTemplate.html#//apple_ref/doc/uid/TP40015064-CH12-SW3
+
+loadingTemplate -
+https://developer.apple.com/LoadingTemplate.html#//apple_ref/doc/uid/TP40015064-CH7-SW6
+
+mainTemplate -
+https://developer.apple.com/MainTemplate.html#//apple_ref/doc/uid/TP40015064-CH30-SW1
+
+menuBarTemplate -
+https://developer.apple.com/MenuBarTemplate.html#//apple_ref/doc/uid/TP40015064-CH17-SW4
+
+oneupTemplate -
+https://developer.apple.com/OneupTemplate.html#//apple_ref/doc/uid/TP40015064-CH26-SW1
+
+paradeTemplate -
+https://developer.apple.com/ParadeTemplate.html#//apple_ref/doc/uid/TP40015064-CH37-SW1
+
+productBundleTemplate -
+https://developer.apple.com/ProductBundleTemplate.html#//apple_ref/doc/uid/TP40015064-CH38-SW1
+
+productTemplate -
+https://developer.apple.com/ProductTemplate.html#//apple_ref/doc/uid/TP40015064-CH8-SW4
+
+ratingTemplate -
+https://developer.apple.com/RatingTemplate.html#//apple_ref/doc/uid/TP40015064-CH39-SW6
+
+searchTemplate -
+https://developer.apple.com/SearchTemplate.html#//apple_ref/doc/uid/TP40015064-CH33-SW1
+
+showcaseTemplate -
+https://developer.apple.com/ShowcaseTemplate.html#//apple_ref/doc/uid/TP40015064-CH27-SW1
+
+stackTemplate -
+https://developer.apple.com/StackTemplate.html#//apple_ref/doc/uid/TP40015064-CH21-SW4
+
+Compound Elements -
+https://developer.apple.com/CompoundBackgroundElements.html#//apple_ref/doc/uid/TP40015064-CH24-SW3
+
+Compound Banner and Header Elements -
+https://developer.apple.com/CompoundBannerHeaderElements.html#//apple_ref/doc/uid/TP40015064-CH23-SW3
+
+Compound Information Elements -
+https://developer.apple.com/CompoundInformationElements.html#//apple_ref/doc/uid/TP40015064-CH22-SW1
+
+Compound Layout Elements -
+https://developer.apple.com/CoumpoundDisplayElements.html#//apple_ref/doc/uid/TP40015064-CH18-SW6
+
+Compound Lockup Elements -
+https://developer.apple.com/LockupElements.html#//apple_ref/doc/uid/TP40015064-CH10-SW3
+
+Compound Shelf Elements -
+https://developer.apple.com/ShelfElement.html#//apple_ref/doc/uid/TP40015064-CH9-SW2
+
+Simple Elements -
+https://developer.apple.com/SimpleDisplayElements.html#//apple_ref/doc/uid/TP40015064-CH19-SW1
+
+Simple Multimedia Elements -
+https://developer.apple.com/SimpleMultimediaElements.html#//apple_ref/doc/uid/TP40015064-CH20-SW2
+
+Simple Text Elements -
+https://developer.apple.com/SimpleElements.html#//apple_ref/doc/uid/TP40015064-CH4-SW1
+
+Styles and Attributes -
+https://developer.apple.com/ITMLStyles.html#//apple_ref/doc/uid/TP40015064-CH11-SW1
+
+TVML Attributes -
+https://developer.apple.com/TVJSAttributes.html#//apple_ref/doc/uid/TP40015064-CH42-SW1
+
+Appendix -
+https://developer.apple.com/ResourceValues.html#//apple_ref/doc/uid/TP40015064-CH44-SW7
+
+Revision History -
+https://developer.apple.com/RevisionHistory.html#//apple_ref/doc/uid/TP40015064-CH99-SW1
+
+Alerts -
+https://developer.apple.com//tvos/human-interface-guidelines/ui-elements/#alerts
+
+UITabBarController Class Reference -
+https://developer.apple.com//library/tvos/documentation/UIKit/Reference/UITabBarController_Class/index.html
+
+
+              Tasks
+             -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006931-CH3-SW6
+
+
+                  Managing the View Controllers
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006931-CH3-SW14
+
+
+                  Managing the Selected Tab
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006931-CH3-SW9
+
+View Controller Catalog for iOS -
+https://developer.apple.com/../../../WindowsViews/Conceptual/ViewControllerCatalog/Introduction.html#//apple_ref/doc/uid/TP40011313
+
+Document Revision History -
+https://developer.apple.com/RevisionHistory.html#//apple_ref/doc/uid/TP40006931-CH2-SW1
+
+
+                  delegate
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITabBarController/delegate
+
+
+                  tabBar
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITabBarController/tabBar
+
+
+                  viewControllers
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITabBarController/viewControllers
+
+
+                  setViewControllers:animated:
+                 -
+https://developer.apple.com/#//apple_ref/occ/instm/UITabBarController/setViewControllers:animated:
+
+
+                  selectedViewController
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITabBarController/selectedViewController
+
+
+                  selectedIndex
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITabBarController/selectedIndex
+
+UIResponder -
+https://developer.apple.com/../UIResponder_Class/index.html#//apple_ref/swift/cl/c:objc(cs)UIResponder
+
+UIViewController -
+https://developer.apple.com/../UIViewController_Class/index.html#//apple_ref/swift/cl/c:objc(cs)UIViewController
+
+UIResponder -
+https://developer.apple.com/../UIResponder_Class/index.html#//apple_ref/occ/cl/UIResponder
+
+UIViewController -
+https://developer.apple.com/../UIViewController_Class/index.html#//apple_ref/occ/cl/UIViewController
+
+NSExtensionRequestHandling -
+https://developer.apple.com/../../../Foundation/Reference/NSExtensionRequestHandling_Protocol/index.html#//apple_ref/swift/intf/c:objc(pl)NSExtensionRequestHandling
+
+UIAppearanceContainer -
+https://developer.apple.com/../../../../recipes/UIAppearanceContainer_Protocol/index.html#//apple_ref/swift/intf/c:objc(pl)UIAppearanceContainer
+
+UIContentContainer -
+https://developer.apple.com/../UIContentContainer_Ref/index.html#//apple_ref/swift/intf/c:objc(pl)UIContentContainer
+
+UIFocusEnvironment -
+https://developer.apple.com/../UIFocusEnvironment_Protocol/index.html#//apple_ref/swift/intf/c:objc(pl)UIFocusEnvironment
+
+UIStateRestoring -
+https://developer.apple.com/../UIStateRestoring_protocol/index.html#//apple_ref/swift/intf/c:objc(pl)UIStateRestoring
+
+UITabBarDelegate -
+https://developer.apple.com/../UITabBarDelegate_Protocol/index.html#//apple_ref/swift/intf/c:objc(pl)UITabBarDelegate
+
+UITraitEnvironment -
+https://developer.apple.com/../UITraitEnvironment_Ref/index.html#//apple_ref/swift/intf/c:objc(pl)UITraitEnvironment
+
+UIAppearanceContainer -
+https://developer.apple.com/../../../../recipes/UIAppearanceContainer_Protocol/index.html#//apple_ref/occ/intf/UIAppearanceContainer
+
+UIContentContainer -
+https://developer.apple.com/../UIContentContainer_Ref/index.html#//apple_ref/occ/intf/UIContentContainer
+
+UIFocusEnvironment -
+https://developer.apple.com/../UIFocusEnvironment_Protocol/index.html#//apple_ref/occ/intf/UIFocusEnvironment
+
+UITabBarDelegate -
+https://developer.apple.com/../UITabBarDelegate_Protocol/index.html#//apple_ref/occ/intf/UITabBarDelegate
+
+UITraitEnvironment -
+https://developer.apple.com/../UITraitEnvironment_Ref/index.html#//apple_ref/occ/intf/UITraitEnvironment
+
+view -
+https://developer.apple.com/../UIViewController_Class/index.html#//apple_ref/occ/instp/UIViewController/view
+
+UITabBarItem -
+https://developer.apple.com/../UITabBarItem_Class/index.html#//apple_ref/occ/cl/UITabBarItem
+
+tabBarItem -
+https://developer.apple.com/../UIViewController_Class/index.html#//apple_ref/occ/instp/UIViewController/tabBarItem
+
+title -
+https://developer.apple.com/../UIViewController_Class/index.html#//apple_ref/occ/instp/UIViewController/title
+
+UITabBarControllerDelegate -
+https://developer.apple.com/../UITabBarControllerDelegate_Protocol/index.html#//apple_ref/occ/intf/UITabBarControllerDelegate
+
+The More Navigation Controller -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006931-CH3-SW8
+
+View Controller Programming Guide for iOS -
+https://developer.apple.com/../../../../featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457
+
+autoresizingMask -
+https://developer.apple.com/../UIView_Class/index.html#//apple_ref/occ/instp/UIView/autoresizingMask
+
+restorationIdentifier -
+https://developer.apple.com/../UIViewController_Class/index.html#//apple_ref/occ/instp/UIViewController/restorationIdentifier
+
+preferredFocusedView -
+https://developer.apple.com/../UIFocusEnvironment_Protocol/index.html#//apple_ref/occ/intfp/UIFocusEnvironment/preferredFocusedView
+
+UITabBarControllerDelegate -
+https://developer.apple.com/../UITabBarControllerDelegate_Protocol/index.html#//apple_ref/swift/intf/c:objc(pl)UITabBarControllerDelegate
+
+UITabBar -
+https://developer.apple.com/../UITabBar_Class/index.html#//apple_ref/swift/cl/c:objc(cs)UITabBar
+
+UITabBar -
+https://developer.apple.com/../UITabBar_Class/index.html#//apple_ref/occ/cl/UITabBar
+
+UIActionSheet -
+https://developer.apple.com/../UIActionSheet_Class/index.html#//apple_ref/occ/cl/UIActionSheet
+
+Bool -
+https://developer.apple.com/../../../Swift/Reference/Swift_Bool_Structure/index.html#//apple_ref/swift/struct/s:Sb
+
+NSArray -
+https://developer.apple.com/../../../Cocoa/Reference/Foundation/Classes/NSArray_Class/index.html#//apple_ref/doc/c_ref/NSArray
+
+UIViewController -
+https://developer.apple.com/../UIViewController_Class/index.html#//apple_ref/doc/c_ref/UIViewController
+
+View Controller Programming Guide for iOS -
+https://developer.apple.com//library/tvos/featuredarticles/ViewControllerPGforiPhoneOS/index.html
+
+tvOS Developer Library
+ 		 -
+https://developer.apple.com/../../navigation/
+
+Overview -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40007457-CH2-SW1
+
+The View Controller Hierarchy -
+https://developer.apple.com/TheViewControllerHierarchy.html#//apple_ref/doc/uid/TP40007457-CH33-SW1
+
+Design Tips -
+https://developer.apple.com/DesignTips.html#//apple_ref/doc/uid/TP40007457-CH5-SW1
+
+View Controller Definition -
+https://developer.apple.com/DefiningYourSubclass.html#//apple_ref/doc/uid/TP40007457-CH7-SW1
+
+Implementing a Container View Controller -
+https://developer.apple.com/ImplementingaContainerViewController.html#//apple_ref/doc/uid/TP40007457-CH11-SW1
+
+Supporting Accessibility -
+https://developer.apple.com/SupportingAccessibility.html#//apple_ref/doc/uid/TP40007457-CH12-SW1
+
+Preserving and Restoring State -
+https://developer.apple.com/PreservingandRestoringState.html#//apple_ref/doc/uid/TP40007457-CH28-SW1
+
+Presentations and Transitions -
+https://developer.apple.com/PresentingaViewController.html#//apple_ref/doc/uid/TP40007457-CH14-SW1
+
+Using Segues -
+https://developer.apple.com/UsingSegues.html#//apple_ref/doc/uid/TP40007457-CH15-SW1
+
+Customizing the Transition Animations -
+https://developer.apple.com/CustomizingtheTransitionAnimations.html#//apple_ref/doc/uid/TP40007457-CH16-SW1
+
+Creating Custom Presentations -
+https://developer.apple.com/DefiningCustomPresentations.html#//apple_ref/doc/uid/TP40007457-CH25-SW1
+
+Adaptivity and Size Changes -
+https://developer.apple.com/TheAdaptiveModel.html#//apple_ref/doc/uid/TP40007457-CH19-SW1
+
+Building an Adaptive Interface -
+https://developer.apple.com/BuildinganAdaptiveInterface.html#//apple_ref/doc/uid/TP40007457-CH32-SW1
+
+Revision History -
+https://developer.apple.com/RevisionHistory.html#//apple_ref/doc/uid/TP40007457-CH99-SW1
+
+View Management -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40007457-CH2-SW2
+
+Data Marshaling -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40007457-CH2-SW3
+
+User Interactions -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40007457-CH2-SW6
+
+Resource Management -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40007457-CH2-SW4
+
+Adaptivity -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40007457-CH2-SW5
+
+UIViewController -
+https://developer.apple.com/../../documentation/UIKit/Reference/UIViewController_Class/index.html#//apple_ref/occ/cl/UIViewController
+
+outlets -
+https://developer.apple.com/../../documentation/General/Conceptual/Devpedia-CocoaApp/Outlet.html#//apple_ref/doc/uid/TP40009071-CH4
+
+Managing View Layout -
+https://developer.apple.com/DefiningYourSubclass.html#//apple_ref/doc/uid/TP40007457-CH7-SW6
+
+UIDocument -
+https://developer.apple.com/../../documentation/UIKit/Reference/UIDocument_Class/index.html#//apple_ref/occ/cl/UIDocument
+
+responder objects -
+https://developer.apple.com/../../documentation/General/Conceptual/Devpedia-CocoaApp/Responder.html#//apple_ref/doc/uid/TP40009071-CH1
+
+delegate -
+https://developer.apple.com/../../documentation/General/Conceptual/DevPedia-CocoaCore/Delegation.html#//apple_ref/doc/uid/TP40008195-CH14
+
+action methods -
+https://developer.apple.com/../../documentation/General/Conceptual/Devpedia-CocoaApp/TargetAction.html#//apple_ref/doc/uid/TP40009071-CH3
+
+Handling User Interactions -
+https://developer.apple.com/DefiningYourSubclass.html#//apple_ref/doc/uid/TP40007457-CH7-SW11
+
+Event Handling Guide for iOS -
+https://developer.apple.com/../../documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009541
+
+didReceiveMemoryWarning -
+https://developer.apple.com/../../documentation/UIKit/Reference/UIViewController_Class/index.html#//apple_ref/occ/instm/UIViewController/didReceiveMemoryWarning
+
+Split Views -
+https://developer.apple.com/#split-views
+
+UITableViewController Class Reference -
+https://developer.apple.com//library/tvos/documentation/UIKit/Reference/UITableViewController_Class/index.html
+
+
+              Tasks
+             -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40007523-CH3-SW4
+
+
+                  Getting the Table View 
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40007523-CH3-SW5
+
+
+                  Configuring the Table Behavior
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40007523-CH3-SW8
+
+Table View Programming Guide for iOS -
+https://developer.apple.com/../../../UserExperience/Conceptual/TableView_iPhone/AboutTableViewsiPhone/AboutTableViewsiPhone.html#//apple_ref/doc/uid/TP40007451
+
+Document Revision History -
+https://developer.apple.com/RevisionHistory.html#//apple_ref/doc/uid/TP40007523-CH2-SW1
+
+
+                  initWithStyle:
+                 -
+https://developer.apple.com/#//apple_ref/occ/instm/UITableViewController/initWithStyle:
+
+
+                  tableView
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewController/tableView
+
+
+                  clearsSelectionOnViewWillAppear
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewController/clearsSelectionOnViewWillAppear
+
+UITableViewDataSource -
+https://developer.apple.com/../UITableViewDataSource_Protocol/index.html#//apple_ref/swift/intf/c:objc(pl)UITableViewDataSource
+
+UITableViewDelegate -
+https://developer.apple.com/../UITableViewDelegate_Protocol/index.html#//apple_ref/swift/intf/c:objc(pl)UITableViewDelegate
+
+UITableViewDataSource -
+https://developer.apple.com/../UITableViewDataSource_Protocol/index.html#//apple_ref/occ/intf/UITableViewDataSource
+
+UITableViewDelegate -
+https://developer.apple.com/../UITableViewDelegate_Protocol/index.html#//apple_ref/occ/intf/UITableViewDelegate
+
+UITableView -
+https://developer.apple.com/../UITableView_Class/index.html#//apple_ref/occ/cl/UITableView
+
+viewWillAppear: -
+https://developer.apple.com/../UIViewController_Class/index.html#//apple_ref/occ/instm/UIViewController/viewWillAppear:
+
+viewDidAppear: -
+https://developer.apple.com/../UIViewController_Class/index.html#//apple_ref/occ/instm/UIViewController/viewDidAppear:
+
+setEditing:animated: -
+https://developer.apple.com/../UIViewController_Class/index.html#//apple_ref/occ/instm/UIViewController/setEditing:animated:
+
+loadView -
+https://developer.apple.com/../UIViewController_Class/index.html#//apple_ref/occ/instm/UIViewController/loadView
+
+UITableViewStyle -
+https://developer.apple.com/../UITableView_Class/index.html#//apple_ref/swift/enum/c:@E@UITableViewStyle
+
+UITableViewStyle -
+https://developer.apple.com/../UITableView_Class/index.html#//apple_ref/doc/c_ref/UITableViewStyle
+
+UITableViewStylePlain -
+https://developer.apple.com/../UITableView_Class/index.html#//apple_ref/c/econst/UITableViewStylePlain
+
+UITableViewStyleGrouped -
+https://developer.apple.com/../UITableView_Class/index.html#//apple_ref/c/econst/UITableViewStyleGrouped
+
+UITableView -
+https://developer.apple.com/../UITableView_Class/index.html#//apple_ref/swift/cl/c:objc(cs)UITableView
+
+UITableViewCellStyleDefault -
+https://developer.apple.com//library/tvos/documentation/UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/c/econst/UITableViewCellStyleDefault
+
+
+              Tasks
+             -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006938-CH3-SW34
+
+
+                  Reusing Cells
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006938-CH3-SW1
+
+
+                  Managing the Predefined Content
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006938-CH3-SW55
+
+
+                  Accessing Views of the Cell Object
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006938-CH3-SW19
+
+
+                  Managing Accessory Views
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006938-CH3-SW43
+
+
+                  Managing Cell Selection and Highlighting
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006938-CH3-SW39
+
+
+                  Editing the Cell
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006938-CH3-SW41
+
+
+                  Adjusting to State Transitions
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006938-CH3-SW73
+
+
+                  Managing Content Indentation
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006938-CH3-SW46
+
+
+                  Managing Focus
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006938-CH3-DontLinkElementID_4
+
+
+              Constants
+             -
+https://developer.apple.com/#//apple_ref/c/tdef/UITableViewCellStyle
+
+
+                  UITableViewCellSelectionStyle
+                 -
+https://developer.apple.com/#//apple_ref/c/tdef/UITableViewCellSelectionStyle
+
+
+                  UITableViewCellEditingStyle
+                 -
+https://developer.apple.com/#//apple_ref/c/tdef/UITableViewCellEditingStyle
+
+
+                  UITableViewCellAccessoryType
+                 -
+https://developer.apple.com/#//apple_ref/c/tdef/UITableViewCellAccessoryType
+
+
+                  UITableViewCellStateMask
+                 -
+https://developer.apple.com/#//apple_ref/c/tdef/UITableViewCellStateMask
+
+
+                  UITableViewCellFocusStyle
+                 -
+https://developer.apple.com/#//apple_ref/c/tdef/UITableViewCellFocusStyle
+
+
+                  Convenience Definitions for Table View Cells
+                 -
+https://developer.apple.com/#//apple_ref/doc/constant_group/Convenience_Definitions_for_Table_View_Cells
+
+Document Revision History -
+https://developer.apple.com/RevisionHistory.html#//apple_ref/doc/uid/TP40006938-CH2-SW1
+
+
+                  initWithStyle:reuseIdentifier:
+                 -
+https://developer.apple.com/#//apple_ref/occ/instm/UITableViewCell/initWithStyle:reuseIdentifier:
+
+
+                  reuseIdentifier
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/reuseIdentifier
+
+
+                  prepareForReuse
+                 -
+https://developer.apple.com/#//apple_ref/occ/instm/UITableViewCell/prepareForReuse
+
+
+                  textLabel
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/textLabel
+
+
+                  detailTextLabel
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/detailTextLabel
+
+
+                  imageView
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/imageView
+
+
+                  contentView
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/contentView
+
+
+                  backgroundView
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/backgroundView
+
+
+                  selectedBackgroundView
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/selectedBackgroundView
+
+
+                  multipleSelectionBackgroundView
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/multipleSelectionBackgroundView
+
+
+                  accessoryType
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/accessoryType
+
+
+                  accessoryView
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/accessoryView
+
+
+                  editingAccessoryType
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/editingAccessoryType
+
+
+                  editingAccessoryView
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/editingAccessoryView
+
+
+                  selected
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/selected
+
+
+                  selectionStyle
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/selectionStyle
+
+
+                  setSelected:animated:
+                 -
+https://developer.apple.com/#//apple_ref/occ/instm/UITableViewCell/setSelected:animated:
+
+
+                  highlighted
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/highlighted
+
+
+                  setHighlighted:animated:
+                 -
+https://developer.apple.com/#//apple_ref/occ/instm/UITableViewCell/setHighlighted:animated:
+
+
+                  editing
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/editing
+
+
+                  setEditing:animated:
+                 -
+https://developer.apple.com/#//apple_ref/occ/instm/UITableViewCell/setEditing:animated:
+
+
+                  editingStyle
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/editingStyle
+
+
+                  showingDeleteConfirmation
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/showingDeleteConfirmation
+
+
+                  showsReorderControl
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/showsReorderControl
+
+
+                  willTransitionToState:
+                 -
+https://developer.apple.com/#//apple_ref/occ/instm/UITableViewCell/willTransitionToState:
+
+
+                  didTransitionToState:
+                 -
+https://developer.apple.com/#//apple_ref/occ/instm/UITableViewCell/didTransitionToState:
+
+
+                  indentationLevel
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/indentationLevel
+
+
+                  indentationWidth
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/indentationWidth
+
+
+                  shouldIndentWhileEditing
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/shouldIndentWhileEditing
+
+
+                  focusStyle
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UITableViewCell/focusStyle
+
+
+                  UITableViewCellStyleDefault
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellStyleDefault
+
+
+                  UITableViewCellStyleValue1
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellStyleValue1
+
+
+                  UITableViewCellStyleValue2
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellStyleValue2
+
+
+                  UITableViewCellStyleSubtitle
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellStyleSubtitle
+
+
+                  UITableViewCellSelectionStyleNone
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellSelectionStyleNone
+
+
+                  UITableViewCellSelectionStyleBlue
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellSelectionStyleBlue
+
+
+                  UITableViewCellSelectionStyleGray
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellSelectionStyleGray
+
+
+                  UITableViewCellSelectionStyleDefault
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellSelectionStyleDefault
+
+
+                  UITableViewCellEditingStyleNone
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellEditingStyleNone
+
+
+                  UITableViewCellEditingStyleDelete
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellEditingStyleDelete
+
+
+                  UITableViewCellEditingStyleInsert
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellEditingStyleInsert
+
+
+                  UITableViewCellAccessoryNone
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellAccessoryNone
+
+
+                  UITableViewCellAccessoryDisclosureIndicator
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellAccessoryDisclosureIndicator
+
+
+                  UITableViewCellAccessoryCheckmark
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellAccessoryCheckmark
+
+
+                  UITableViewCellStateDefaultMask
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellStateDefaultMask
+
+
+                  UITableViewCellStateShowingEditControlMask
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellStateShowingEditControlMask
+
+
+                  UITableViewCellStateShowingDeleteConfirmationMask
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellStateShowingDeleteConfirmationMask
+
+
+                  UITableViewCellFocusStyleDefault
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellFocusStyleDefault
+
+
+                  UITableViewCellFocusStyleCustom
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITableViewCellFocusStyleCustom
+
+
+                  UITableViewCellSeparatorStyleDoubleLineEtched
+                 -
+https://developer.apple.com/#//apple_ref/c/macro/UITableViewCellSeparatorStyleDoubleLineEtched
+
+
+                  UITableViewCellStateEditingMask
+                 -
+https://developer.apple.com/#//apple_ref/c/macro/UITableViewCellStateEditingMask
+
+UIView -
+https://developer.apple.com/../UIView_Class/index.html#//apple_ref/swift/cl/c:objc(cs)UIView
+
+UIView -
+https://developer.apple.com/../UIView_Class/index.html#//apple_ref/occ/cl/UIView
+
+UIAccessibilityIdentification -
+https://developer.apple.com/../UIAccessibilityIdentification_Protocol/index.html#//apple_ref/swift/intf/c:objc(pl)UIAccessibilityIdentification
+
+UIAppearance -
+https://developer.apple.com/../UIAppearance_Protocol/index.html#//apple_ref/swift/intf/c:objc(pl)UIAppearance
+
+UICoordinateSpace -
+https://developer.apple.com/../UICoordinateSpace_protocol/index.html#//apple_ref/swift/intf/c:objc(pl)UICoordinateSpace
+
+UIDynamicItem -
+https://developer.apple.com/../UIDynamicItem_Protocol/index.html#//apple_ref/swift/intf/c:objc(pl)UIDynamicItem
+
+UIGestureRecognizerDelegate -
+https://developer.apple.com/../UIGestureRecognizerDelegate_Protocol/index.html#//apple_ref/swift/intf/c:objc(pl)UIGestureRecognizerDelegate
+
+UIAppearance -
+https://developer.apple.com/../UIAppearance_Protocol/index.html#//apple_ref/occ/intf/UIAppearance
+
+UICoordinateSpace -
+https://developer.apple.com/../UICoordinateSpace_protocol/index.html#//apple_ref/occ/intf/UICoordinateSpace
+
+UIDynamicItem -
+https://developer.apple.com/../UIDynamicItem_Protocol/index.html#//apple_ref/occ/intf/UIDynamicItem
+
+UIGestureRecognizerDelegate -
+https://developer.apple.com/../UIGestureRecognizerDelegate_Protocol/index.html#//apple_ref/occ/intf/UIGestureRecognizerDelegate
+
+backgroundColor -
+https://developer.apple.com/../UIView_Class/index.html#//apple_ref/occ/instm/UIView/backgroundColor
+
+tableView:willDisplayCell:forRowAtIndexPath: -
+https://developer.apple.com/../UITableViewDelegate_Protocol/index.html#//apple_ref/occ/intfm/UITableViewDelegate/tableView:willDisplayCell:forRowAtIndexPath:
+
+A Closer Look at Table View Cells -
+https://developer.apple.com/../../../UserExperience/Conceptual/TableView_iPhone/TableViewCells/TableViewCells.html#//apple_ref/doc/uid/TP40007451-CH7
+
+UITableViewCellStyle -
+https://developer.apple.com/#//apple_ref/swift/enum/c:@E@UITableViewCellStyle
+
+UITableViewCellStyle -
+https://developer.apple.com/#//apple_ref/doc/c_ref/UITableViewCellStyle
+
+NSString -
+https://developer.apple.com/../../../Cocoa/Reference/Foundation/Classes/NSString_Class/index.html#//apple_ref/doc/c_ref/NSString
+
+tableView:cellForRowAtIndexPath: -
+https://developer.apple.com/../UITableViewDataSource_Protocol/index.html#//apple_ref/occ/intfm/UITableViewDataSource/tableView:cellForRowAtIndexPath:
+
+dequeueReusableCellWithIdentifier: -
+https://developer.apple.com/../UITableView_Class/index.html#//apple_ref/occ/instm/UITableView/dequeueReusableCellWithIdentifier:
+
+tableView:heightForRowAtIndexPath: -
+https://developer.apple.com/../UITableViewDelegate_Protocol/index.html#//apple_ref/occ/intfm/UITableViewDelegate/tableView:heightForRowAtIndexPath:
+
+UILabel -
+https://developer.apple.com/../UILabel_Class/index.html#//apple_ref/swift/cl/c:objc(cs)UILabel
+
+UIImageView -
+https://developer.apple.com/../UIImageView_Class/index.html#//apple_ref/swift/cl/c:objc(cs)UIImageView
+
+UIImageView -
+https://developer.apple.com/../UIImageView_Class/index.html#//apple_ref/occ/cl/UIImageView
+
+allowsMultipleSelection -
+https://developer.apple.com/../UITableView_Class/index.html#//apple_ref/occ/instp/UITableView/allowsMultipleSelection
+
+allowsMultipleSelectionDuringEditing -
+https://developer.apple.com/../UITableView_Class/index.html#//apple_ref/occ/instp/UITableView/allowsMultipleSelectionDuringEditing
+
+UITableViewCellAccessoryType -
+https://developer.apple.com/#//apple_ref/swift/enum/c:@E@UITableViewCellAccessoryType
+
+tableView:accessoryButtonTappedForRowWithIndexPath: -
+https://developer.apple.com/../UITableViewDelegate_Protocol/index.html#//apple_ref/occ/intfm/UITableViewDelegate/tableView:accessoryButtonTappedForRowWithIndexPath:
+
+UITableViewCellSelectionStyle -
+https://developer.apple.com/#//apple_ref/swift/enum/c:@E@UITableViewCellSelectionStyle
+
+highlightedTextColor -
+https://developer.apple.com/../UILabel_Class/index.html#//apple_ref/occ/instm/UILabel/setHighlightedTextColor:
+
+setEditing:animated: -
+https://developer.apple.com/../UITableView_Class/index.html#//apple_ref/occ/instm/UITableView/setEditing:animated:
+
+UITableViewCellEditingStyle -
+https://developer.apple.com/#//apple_ref/swift/enum/c:@E@UITableViewCellEditingStyle
+
+tableView:editingStyleForRowAtIndexPath: -
+https://developer.apple.com/../UITableViewDelegate_Protocol/index.html#//apple_ref/occ/intfm/UITableViewDelegate/tableView:editingStyleForRowAtIndexPath:
+
+tableView:moveRowAtIndexPath:toIndexPath: -
+https://developer.apple.com/../UITableViewDataSource_Protocol/index.html#//apple_ref/occ/intfm/UITableViewDataSource/tableView:moveRowAtIndexPath:toIndexPath:
+
+tableView:canMoveRowAtIndexPath: -
+https://developer.apple.com/../UITableViewDataSource_Protocol/index.html#//apple_ref/occ/intfm/UITableViewDataSource/tableView:canMoveRowAtIndexPath:
+
+UITableViewCellStateMask -
+https://developer.apple.com/#//apple_ref/swift/struct/c:@E@UITableViewCellStateMask
+
+UITableViewCellStateMask -
+https://developer.apple.com/#//apple_ref/doc/c_ref/UITableViewCellStateMask
+
+layoutSubviews -
+https://developer.apple.com/../UIView_Class/index.html#//apple_ref/occ/instm/UIView/layoutSubviews
+
+tableView:shouldIndentWhileEditingRowAtIndexPath: -
+https://developer.apple.com/../UITableViewDelegate_Protocol/index.html#//apple_ref/occ/intfm/UITableViewDelegate/tableView:shouldIndentWhileEditingRowAtIndexPath:
+
+UITableViewCellFocusStyle -
+https://developer.apple.com/#//apple_ref/swift/enum/c:@E@UITableViewCellFocusStyle
+
+tableView:didSelectRowAtIndexPath: -
+https://developer.apple.com/../UITableViewDelegate_Protocol/index.html#//apple_ref/occ/intfm/UITableViewDelegate/tableView:didSelectRowAtIndexPath:
+
+OptionSetType -
+https://developer.apple.com/../../../Swift/Reference/Swift_OptionSetType_Protocol/index.html#//apple_ref/swift/intf/s:PSs13OptionSetType
+
+UInt -
+https://developer.apple.com/../../../Swift/Reference/Swift_UInt_Structure/index.html#//apple_ref/swift/struct/s:Su
+
+didUpdateFocusInContext:withAnimationCoordinator: -
+https://developer.apple.com/../UIFocusEnvironment_Protocol/index.html#//apple_ref/occ/intfm/UIFocusEnvironment/didUpdateFocusInContext:withAnimationCoordinator:
+
+UITableViewCellStyleSubtitle -
+https://developer.apple.com//library/tvos/documentation/UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/c/econst/UITableViewCellStyleSubtitle
+
+UITableViewCellStyleValue1 -
+https://developer.apple.com//library/tvos/documentation/UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/c/econst/UITableViewCellStyleValue1
+
+UITableViewCellStyleValue2 -
+https://developer.apple.com//library/tvos/documentation/UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/c/econst/UITableViewCellStyleValue2
+
+Customizing Cells -
+https://developer.apple.com//library/tvos/documentation/UserExperience/Conceptual/TableView_iPhone/TableViewCells/TableViewCells.html#//apple_ref/doc/uid/TP40007451-CH7-SW18
+
+Next -
+https://developer.apple.com/../ManageSelections/ManageSelections.html
+
+Previous -
+https://developer.apple.com/../CreateConfigureTableView/CreateConfigureTableView.html
+
+UITableViewCell -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/occ/cl/UITableViewCell
+
+tableView:cellForRowAtIndexPath: -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewDataSource_Protocol/index.html#//apple_ref/occ/intfm/UITableViewDataSource/tableView:cellForRowAtIndexPath:
+
+UITableViewDataSource -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewDataSource_Protocol/index.html#//apple_ref/occ/intf/UITableViewDataSource
+
+protocol -
+https://developer.apple.com/../../../../General/Conceptual/DevPedia-CocoaCore/Protocol.html#//apple_ref/doc/uid/TP40008195-CH45
+
+dequeueReusableCellWithIdentifier: -
+https://developer.apple.com/../../../../UIKit/Reference/UITableView_Class/index.html#//apple_ref/occ/instm/UITableView/dequeueReusableCellWithIdentifier:
+
+create -
+https://developer.apple.com/../../../../General/Conceptual/DevPedia-CocoaCore/ObjectCreation.html#//apple_ref/doc/uid/TP40008195-CH39
+
+Standard Styles for Table View Cells -
+https://developer.apple.com/../TableViewStyles/TableViewCharacteristics.html#//apple_ref/doc/uid/TP40007451-CH3-SW14
+
+properties -
+https://developer.apple.com/../../../../General/Conceptual/DevPedia-CocoaCore/DeclaredProperty.html#//apple_ref/doc/uid/TP40008195-CH13
+
+textLabel -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/occ/instp/UITableViewCell/textLabel
+
+UILabel -
+https://developer.apple.com/../../../../UIKit/Reference/UILabel_Class/index.html#//apple_ref/occ/cl/UILabel
+
+detailTextLabel -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/occ/instp/UITableViewCell/detailTextLabel
+
+imageView -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/occ/instp/UITableViewCell/imageView
+
+UIImageView -
+https://developer.apple.com/../../../../UIKit/Reference/UIImageView_Class/index.html#//apple_ref/occ/cl/UIImageView
+
+highlightedImage -
+https://developer.apple.com/../../../../UIKit/Reference/UIImageView_Class/index.html#//apple_ref/occ/instm/UIImageView/highlightedImage
+
+UITableViewCellStyleSubtitle -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/c/econst/UITableViewCellStyleSubtitle
+
+Figure 5-4 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40007451-CH7-SW3
+
+selectionStyle -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/occ/instm/UITableViewCell/selectionStyle
+
+accessoryType -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/occ/instp/UITableViewCell/accessoryType
+
+accessoryView -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/occ/instm/UITableViewCell/accessoryView
+
+UIView -
+https://developer.apple.com/../../../../UIKit/Reference/UIView_Class/index.html#//apple_ref/occ/cl/UIView
+
+editingAccessoryType -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/occ/instp/UITableViewCell/editingAccessoryType
+
+editingAccessoryView -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/occ/instm/UITableViewCell/setEditingAccessoryView:
+
+showsReorderControl -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/occ/instp/UITableViewCell/showsReorderControl
+
+editingStyle -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/occ/instm/UITableViewCell/editingStyle
+
+tableView:editingStyleForRowAtIndexPath: -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewDelegate_Protocol/index.html#//apple_ref/occ/intfm/UITableViewDelegate/tableView:editingStyleForRowAtIndexPath:
+
+backgroundView -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/occ/instp/UITableViewCell/backgroundView
+
+selectedBackgroundView -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/occ/instp/UITableViewCell/selectedBackgroundView
+
+indentationLevel -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/occ/instp/UITableViewCell/indentationLevel
+
+indentationWidth -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/occ/instp/UITableViewCell/indentationWidth
+
+backgroundColor -
+https://developer.apple.com/../../../../UIKit/Reference/UIView_Class/index.html#//apple_ref/occ/instm/UIView/backgroundColor
+
+tableView:willDisplayCell:forRowAtIndexPath: -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewDelegate_Protocol/index.html#//apple_ref/occ/intfm/UITableViewDelegate/tableView:willDisplayCell:forRowAtIndexPath:
+
+storyboard -
+https://developer.apple.com/../../../../General/Conceptual/Devpedia-CocoaApp/Storyboard.html#//apple_ref/doc/uid/TP40009071-CH99
+
+tag -
+https://developer.apple.com/../../../../UIKit/Reference/UIView_Class/index.html#//apple_ref/occ/instp/UIView/tag
+
+tag -
+https://developer.apple.com/../../../../UIKit/Reference/UIView_Class/index.html#//apple_ref/occ/instm/UIView/tag
+
+viewWithTag: -
+https://developer.apple.com/../../../../UIKit/Reference/UIView_Class/index.html#//apple_ref/occ/instm/UIView/viewWithTag:
+
+UITableViewController -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewController_Class/index.html#//apple_ref/occ/cl/UITableViewController
+
+Figure 5-7 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40007451-CH7-SW25
+
+attributes -
+https://developer.apple.com/../../../../General/Conceptual/DevPedia-CocoaCore/ObjectModeling.html#//apple_ref/doc/uid/TP40008195-CH41
+
+Listing 5-5 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40007451-CH7-SW24
+
+contentView -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/occ/instp/UITableViewCell/contentView
+
+Loading Table View Cells from a Storyboard -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40007451-CH7-SW20
+
+accessor methods -
+https://developer.apple.com/../../../../General/Conceptual/DevPedia-CocoaCore/AccessorMethod.html#//apple_ref/doc/uid/TP40008195-CH2
+
+highlighted -
+https://developer.apple.com/../../../../UIKit/Reference/UILabel_Class/index.html#//apple_ref/occ/instp/UILabel/highlighted
+
+UITableViewCellStyleDefault -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/c/econst/UITableViewCellStyleDefault
+
+imageView -
+https://developer.apple.com/../../../../UIKit/Reference/UITableViewCell_Class/index.html#//apple_ref/occ/instm/UITableViewCell/imageView
+
+layoutSubviews -
+https://developer.apple.com/../../../../UIKit/Reference/UIView_Class/index.html#//apple_ref/occ/instm/UIView/layoutSubviews
+
+accessible -
+https://developer.apple.com/../../../../General/Conceptual/DevPedia-CocoaCore/Accessibility.html#//apple_ref/doc/uid/TP40008195-CH66
+
+Listing 5-8 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40007451-CH7-SW7
+
+Populating an Indexed List -
+https://developer.apple.com/../CreateConfigureTableView/CreateConfigureTableView.html#//apple_ref/doc/uid/TP40007451-CH6-SW30
+
+Table View Programming Guide for iOS -
+https://developer.apple.com//library/tvos/documentation/UserExperience/Conceptual/TableView_iPhone/AboutTableViewsiPhone/AboutTableViewsiPhone.html
+
+Next -
+https://developer.apple.com/../TableViewStyles/TableViewCharacteristics.html
+
+UITableView -
+https://developer.apple.com/../../../../UIKit/Reference/UITableView_Class/index.html#//apple_ref/occ/cl/UITableView
+
+Table View Styles and Accessory Views -
+https://developer.apple.com/../TableViewStyles/TableViewCharacteristics.html#//apple_ref/doc/uid/TP40007451-CH3-SW1
+
+A Closer Look at Table View Cells -
+https://developer.apple.com/../TableViewCells/TableViewCells.html#//apple_ref/doc/uid/TP40007451-CH7-SW1
+
+Navigating a Data Hierarchy with Table Views -
+https://developer.apple.com/../TableViewAndDataModel/TableViewAndDataModel.html#//apple_ref/doc/uid/TP40007451-CH5-SW4
+
+Managing Selections -
+https://developer.apple.com/../ManageSelections/ManageSelections.html#//apple_ref/doc/uid/TP40007451-CH9-SW6
+
+Inserting and Deleting Rows and Sections -
+https://developer.apple.com/../ManageInsertDeleteRow/ManageInsertDeleteRow.html#//apple_ref/doc/uid/TP40007451-CH10-SW1
+
+Managing the Reordering of Rows -
+https://developer.apple.com/../ManageReorderRow/ManageReorderRow.html#//apple_ref/doc/uid/TP40007451-CH11-SW1
+
+Creating and Configuring a Table View -
+https://developer.apple.com/../CreateConfigureTableView/CreateConfigureTableView.html#//apple_ref/doc/uid/TP40007451-CH6-SW10
+
+View Controller Programming Guide for iOS -
+https://developer.apple.com/../../../../../featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457
+
+View Controller Catalog for iOS -
+https://developer.apple.com/../../../../WindowsViews/Conceptual/ViewControllerCatalog/Introduction.html#//apple_ref/doc/uid/TP40011313
+
+UITableViewCell Class Reference -
+https://developer.apple.com//library/tvos/documentation/UIKit/Reference/UITableViewCell_Class/index.html
+
+Templates -
+https://developer.apple.com//tvos/human-interface-guidelines/visual-design/#layout-templates
+
+Text and Search -
+https://developer.apple.com//tvos/human-interface-guidelines/ui-elements/#text-and-search
+
+UICollectionViewController Class Reference -
+https://developer.apple.com//library/tvos/documentation/UIKit/Reference/UICollectionViewController_clas/index.html
+
+
+              Tasks
+             -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40012180-CH1-SW6
+
+
+                  Getting the Collection View
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40012180-CH1-SW2
+
+
+                  Configuring the Collection View Behavior
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40012180-CH1-SW7
+
+
+                  Integrating with a Navigation Controller
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40012180-CH1-SW8
+
+Document Revision History -
+https://developer.apple.com/RevisionHistory.html#//apple_ref/doc/uid/TP40012180-CH99-SW1
+
+
+                  init(collectionViewLayout:)
+                 -
+https://developer.apple.com/#//apple_ref/occ/instm/UICollectionViewController/initWithCollectionViewLayout:
+
+
+                  collectionView
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UICollectionViewController/collectionView
+
+
+                  collectionViewLayout
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UICollectionViewController/collectionViewLayout
+
+
+                  clearsSelectionOnViewWillAppear
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UICollectionViewController/clearsSelectionOnViewWillAppear
+
+
+                  installsStandardGestureForInteractiveMovement
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UICollectionViewController/installsStandardGestureForInteractiveMovement
+
+
+                  useLayoutToLayoutNavigationTransitions
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UICollectionViewController/useLayoutToLayoutNavigationTransitions
+
+UICollectionViewDataSource -
+https://developer.apple.com/../UICollectionViewDataSource_protocol/index.html#//apple_ref/swift/intf/c:objc(pl)UICollectionViewDataSource
+
+UICollectionViewDelegate -
+https://developer.apple.com/../UICollectionViewDelegate_protocol/index.html#//apple_ref/swift/intf/c:objc(pl)UICollectionViewDelegate
+
+UICollectionViewDataSource -
+https://developer.apple.com/../UICollectionViewDataSource_protocol/index.html#//apple_ref/occ/intf/UICollectionViewDataSource
+
+UICollectionViewDelegate -
+https://developer.apple.com/../UICollectionViewDelegate_protocol/index.html#//apple_ref/occ/intf/UICollectionViewDelegate
+
+UICollectionViewLayout -
+https://developer.apple.com/../UICollectionViewLayout_class/index.html#//apple_ref/doc/c_ref/UICollectionViewLayout
+
+UICollectionView -
+https://developer.apple.com/../UICollectionView_class/index.html#//apple_ref/swift/cl/c:objc(cs)UICollectionView
+
+UISplitViewController Class Reference -
+https://developer.apple.com//library/tvos/documentation/UIKit/Reference/UISplitViewController_class/index.html
+
+
+              Tasks
+             -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40009277-CH1-SW5
+
+
+                  Managing the Display Mode
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40009277-CH1-SW28
+
+
+                  Getting the Split View Configuration
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40009277-CH1-SW6
+
+
+                  Accessing the Delegate Object
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40009277-CH1-SW8
+
+
+                  Action Methods for Displaying View Controllers
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40009277-CH1-SW29
+
+
+              Constants
+             -
+https://developer.apple.com/#//apple_ref/c/tdef/UISplitViewControllerDisplayMode
+
+
+                  Split View Controller Dimensions
+                 -
+https://developer.apple.com/#//apple_ref/doc/constant_group/Split_View_Controller_Dimensions
+
+Document Revision History -
+https://developer.apple.com/RevisionHistory.html#//apple_ref/doc/uid/TP40009277-CH99-SW1
+
+
+                  viewControllers
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UISplitViewController/viewControllers
+
+
+                  presentsWithGesture
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UISplitViewController/presentsWithGesture
+
+
+                  preferredDisplayMode
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UISplitViewController/preferredDisplayMode
+
+
+                  displayMode
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UISplitViewController/displayMode
+
+
+                  displayModeButtonItem()
+                 -
+https://developer.apple.com/#//apple_ref/occ/instm/UISplitViewController/displayModeButtonItem
+
+
+                  collapsed
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UISplitViewController/collapsed
+
+
+                  preferredPrimaryColumnWidthFraction
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UISplitViewController/preferredPrimaryColumnWidthFraction
+
+
+                  primaryColumnWidth
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UISplitViewController/primaryColumnWidth
+
+
+                  minimumPrimaryColumnWidth
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UISplitViewController/minimumPrimaryColumnWidth
+
+
+                  maximumPrimaryColumnWidth
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UISplitViewController/maximumPrimaryColumnWidth
+
+
+                  delegate
+                 -
+https://developer.apple.com/#//apple_ref/occ/instp/UISplitViewController/delegate
+
+
+                  showDetailViewController(_:sender:)
+                 -
+https://developer.apple.com/#//apple_ref/occ/instm/UISplitViewController/showDetailViewController:sender:
+
+
+                  showViewController(_:sender:)
+                 -
+https://developer.apple.com/#//apple_ref/occ/instm/UISplitViewController/showViewController:sender:
+
+
+                  Automatic
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UISplitViewControllerDisplayModeAutomatic
+
+
+                  PrimaryHidden
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UISplitViewControllerDisplayModePrimaryHidden
+
+
+                  AllVisible
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UISplitViewControllerDisplayModeAllVisible
+
+
+                  PrimaryOverlay
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UISplitViewControllerDisplayModePrimaryOverlay
+
+
+                  UISplitViewControllerAutomaticDimension
+                 -
+https://developer.apple.com/#//apple_ref/c/data/UISplitViewControllerAutomaticDimension
+
+delegate -
+https://developer.apple.com/../../../General/Conceptual/DevPedia-CocoaCore/Delegation.html#//apple_ref/doc/uid/TP40008195-CH14
+
+UISplitViewControllerDelegate -
+https://developer.apple.com/../UISplitViewControllerDelegate_protocol/index.html#//apple_ref/occ/intf/UISplitViewControllerDelegate
+
+UISplitViewControllerDelegate Protocol Reference -
+https://developer.apple.com/../UISplitViewControllerDelegate_protocol/index.html#//apple_ref/doc/uid/TP40009454
+
+targetDisplayModeForActionInSplitViewController: -
+https://developer.apple.com/../UISplitViewControllerDelegate_protocol/index.html#//apple_ref/occ/intfm/UISplitViewControllerDelegate/targetDisplayModeForActionInSplitViewController:
+
+primaryViewControllerForCollapsingSplitViewController: -
+https://developer.apple.com/../UISplitViewControllerDelegate_protocol/index.html#//apple_ref/occ/intfm/UISplitViewControllerDelegate/primaryViewControllerForCollapsingSplitViewController:
+
+splitViewController:collapseSecondaryViewController:ontoPrimaryViewController: -
+https://developer.apple.com/../UISplitViewControllerDelegate_protocol/index.html#//apple_ref/occ/intfm/UISplitViewControllerDelegate/splitViewController:collapseSecondaryViewController:ontoPrimaryViewController:
+
+primaryViewControllerForExpandingSplitViewController: -
+https://developer.apple.com/../UISplitViewControllerDelegate_protocol/index.html#//apple_ref/occ/intfm/UISplitViewControllerDelegate/primaryViewControllerForExpandingSplitViewController:
+
+splitViewController:separateSecondaryViewControllerFromPrimaryViewController: -
+https://developer.apple.com/../UISplitViewControllerDelegate_protocol/index.html#//apple_ref/occ/intfm/UISplitViewControllerDelegate/splitViewController:separateSecondaryViewControllerFromPrimaryViewController:
+
+UISplitViewControllerDisplayMode -
+https://developer.apple.com/#//apple_ref/swift/enum/c:@E@UISplitViewControllerDisplayMode
+
+UIBarButtonItem -
+https://developer.apple.com/../UIBarButtonItem_Class/index.html#//apple_ref/swift/cl/c:objc(cs)UIBarButtonItem
+
+UIBarButtonItem -
+https://developer.apple.com/../UIBarButtonItem_Class/index.html#//apple_ref/doc/c_ref/UIBarButtonItem
+
+UISplitViewControllerDelegate -
+https://developer.apple.com/../UISplitViewControllerDelegate_protocol/index.html#//apple_ref/swift/intf/c:objc(pl)UISplitViewControllerDelegate
+
+AnyObject -
+https://developer.apple.com/../../../Swift/Reference/Swift_AnyObject_Protocol/index.html#//apple_ref/swift/intf/s:PSs9AnyObject
+
+splitViewController:showDetailViewController:sender: -
+https://developer.apple.com/../UISplitViewControllerDelegate_protocol/index.html#//apple_ref/occ/intfm/UISplitViewControllerDelegate/splitViewController:showDetailViewController:sender:
+
+splitViewController:showViewController:sender: -
+https://developer.apple.com/../UISplitViewControllerDelegate_protocol/index.html#//apple_ref/occ/intfm/UISplitViewControllerDelegate/splitViewController:showViewController:sender:
+
+UIKeyboardTypeEmailAddress -
+https://developer.apple.com//library/ios/documentation/UIKit/Reference/UITextInputTraits_Protocol/#//apple_ref/c/econst/UIKeyboardTypeEmailAddress
+
+
+              Tasks
+             -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006896-CH1-SW7
+
+
+              Constants
+             -
+https://developer.apple.com/#//apple_ref/c/tdef/UITextAutocapitalizationType
+
+
+                  UITextAutocorrectionType
+                 -
+https://developer.apple.com/#//apple_ref/c/tdef/UITextAutocorrectionType
+
+
+                  UITextSpellCheckingType
+                 -
+https://developer.apple.com/#//apple_ref/c/tdef/UITextSpellCheckingType
+
+
+                  UIKeyboardType
+                 -
+https://developer.apple.com/#//apple_ref/c/tdef/UIKeyboardType
+
+
+                  UIKeyboardAppearance
+                 -
+https://developer.apple.com/#//apple_ref/c/tdef/UIKeyboardAppearance
+
+
+                  UIReturnKeyType
+                 -
+https://developer.apple.com/#//apple_ref/c/tdef/UIReturnKeyType
+
+Document Revision History -
+https://developer.apple.com/RevisionHistory.html#//apple_ref/doc/uid/TP40006896-CH2-SW1
+
+
+                  autocapitalizationType
+                 -
+https://developer.apple.com/#//apple_ref/occ/intfp/UITextInputTraits/autocapitalizationType
+
+
+                  autocorrectionType
+                 -
+https://developer.apple.com/#//apple_ref/occ/intfp/UITextInputTraits/autocorrectionType
+
+
+                  spellCheckingType
+                 -
+https://developer.apple.com/#//apple_ref/occ/intfp/UITextInputTraits/spellCheckingType
+
+
+                  enablesReturnKeyAutomatically
+                 -
+https://developer.apple.com/#//apple_ref/occ/intfp/UITextInputTraits/enablesReturnKeyAutomatically
+
+
+                  keyboardAppearance
+                 -
+https://developer.apple.com/#//apple_ref/occ/intfp/UITextInputTraits/keyboardAppearance
+
+
+                  keyboardType
+                 -
+https://developer.apple.com/#//apple_ref/occ/intfp/UITextInputTraits/keyboardType
+
+
+                  returnKeyType
+                 -
+https://developer.apple.com/#//apple_ref/occ/intfp/UITextInputTraits/returnKeyType
+
+
+                  secureTextEntry
+                 -
+https://developer.apple.com/#//apple_ref/occ/intfp/UITextInputTraits/secureTextEntry
+
+
+                  None
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITextAutocapitalizationTypeNone
+
+
+                  Words
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITextAutocapitalizationTypeWords
+
+
+                  Sentences
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITextAutocapitalizationTypeSentences
+
+
+                  AllCharacters
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITextAutocapitalizationTypeAllCharacters
+
+
+                  Default
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITextAutocorrectionTypeDefault
+
+
+                  No
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITextAutocorrectionTypeNo
+
+
+                  Yes
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITextAutocorrectionTypeYes
+
+
+                  Default
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITextSpellCheckingTypeDefault
+
+
+                  No
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITextSpellCheckingTypeNo
+
+
+                  Yes
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UITextSpellCheckingTypeYes
+
+
+                  Default
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIKeyboardTypeDefault
+
+
+                  ASCIICapable
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIKeyboardTypeASCIICapable
+
+
+                  NumbersAndPunctuation
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIKeyboardTypeNumbersAndPunctuation
+
+
+                  URL
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIKeyboardTypeURL
+
+
+                  NumberPad
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIKeyboardTypeNumberPad
+
+
+                  PhonePad
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIKeyboardTypePhonePad
+
+
+                  NamePhonePad
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIKeyboardTypeNamePhonePad
+
+
+                  EmailAddress
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIKeyboardTypeEmailAddress
+
+
+                  DecimalPad
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIKeyboardTypeDecimalPad
+
+
+                  Twitter
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIKeyboardTypeTwitter
+
+
+                  WebSearch
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIKeyboardTypeWebSearch
+
+
+                  Alphabet
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIKeyboardTypeAlphabet
+
+
+                  Default
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIKeyboardAppearanceDefault
+
+
+                  Dark
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIKeyboardAppearanceDark
+
+
+                  Light
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIKeyboardAppearanceLight
+
+
+                  Alert
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIKeyboardAppearanceAlert
+
+
+                  Default
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIReturnKeyDefault
+
+
+                  Go
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIReturnKeyGo
+
+
+                  Google
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIReturnKeyGoogle
+
+
+                  Join
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIReturnKeyJoin
+
+
+                  Next
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIReturnKeyNext
+
+
+                  Route
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIReturnKeyRoute
+
+
+                  Search
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIReturnKeySearch
+
+
+                  Send
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIReturnKeySend
+
+
+                  Yahoo
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIReturnKeyYahoo
+
+
+                  Done
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIReturnKeyDone
+
+
+                  EmergencyCall
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIReturnKeyEmergencyCall
+
+
+                  Continue
+                 -
+https://developer.apple.com/#//apple_ref/c/econst/UIReturnKeyContinue
+
+NSObjectProtocol -
+https://developer.apple.com/../../../Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/index.html#//apple_ref/swift/intf/c:objc(pl)NSObject
+
+NSObject -
+https://developer.apple.com/../../../Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/index.html#//apple_ref/occ/intf/NSObject
+
+UITextField -
+https://developer.apple.com/../UITextField_Class/index.html#//apple_ref/occ/cl/UITextField
+
+UITextView -
+https://developer.apple.com/../UITextView_Class/index.html#//apple_ref/occ/cl/UITextView
+
+UITextAutocapitalizationType -
+https://developer.apple.com/#//apple_ref/swift/enum/c:@E@UITextAutocapitalizationType
+
+UITextAutocorrectionType -
+https://developer.apple.com/#//apple_ref/swift/enum/c:@E@UITextAutocorrectionType
+
+UITextSpellCheckingType -
+https://developer.apple.com/#//apple_ref/swift/enum/c:@E@UITextSpellCheckingType
+
+UIKeyboardAppearance -
+https://developer.apple.com/#//apple_ref/swift/enum/c:@E@UIKeyboardAppearance
+
+UIKeyboardType -
+https://developer.apple.com/#//apple_ref/swift/enum/c:@E@UIKeyboardType
+
+UIReturnKeyType -
+https://developer.apple.com/#//apple_ref/swift/enum/c:@E@UIReturnKeyType
+
+UITextInputTraits -
+https://developer.apple.com//library/ios/documentation/UIKit/Reference/UITextInputTraits_Protocol/
+
+UITextField Class Reference -
+https://developer.apple.com//library/tvos/documentation/UIKit/Reference/UITextField_Class/index.html
+
+
+              Tasks
+             -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006888-CH3-SW13
+
+
+                  Sizing the Text Fieldâs Text
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006888-CH3-SW17
+
+
+                  Managing the Editing Behavior
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006888-CH3-SW18
+
+
+                  Setting the Viewâs Background Appearance
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006888-CH3-SW22
+
+
+                  Managing Overlay Views
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006888-CH3-SW23
+
+
+                  Accessing the Delegate
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006888-CH3-SW29
+
+
+                  Drawing and Positioning Overrides
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006888-CH3-SW31
+
+
+                  Replacing the System Input Views
+                 -
+https://developer.apple.com/#//apple_ref/doc/uid/TP40006888-CH3-SW52
+
+
+              Constants
+             -
+https://developer.apple.com/#//apple_ref/c/tdef/UITextBorderStyle
+
+
+                  UITextFieldViewMode
+                 -
+https://developer.apple.com/#//apple_ref/c/tdef/UITextFieldViewMode
+
+
+              Notifications
+             -
+https://developer.apple.com/#//apple_ref/c/data/UITextFieldTextDidBeginEditingNotification
+
+
+                  UITextFieldTextDidChangeNotification
+                 -
+https://developer.apple.com/#//apple_ref/c/data/UITextFieldTextDidChangeNotification
+
+
+                  UITextFieldTextDidEndEditingNotification
+                 -
+https://developer.apple.com/#//apple_ref/c/data/UITextFieldTextDidEndEditingNotification
+
+Text Programming Guide for iOS -
+https://developer.apple.com/../../../StringsTextFonts/Conceptual/TextAndWebiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009542
+
+Document Revision History -
+https://developer.apple.com/RevisionHistory.html#//apple_ref/doc/uid/TP40006888-CH2-SW1
+
